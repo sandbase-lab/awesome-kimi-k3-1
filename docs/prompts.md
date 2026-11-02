@@ -2,7 +2,7 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-55 Kimi K3.1 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with K3.1 on SandBase Lab. New to prompting K3.1? Start with the [prompt guide](prompt-guide.md).
+58 Kimi K3.1 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with K3.1 on SandBase Lab. New to prompting K3.1? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
@@ -10,7 +10,7 @@ Each entry quotes the creator's post as published on X, where the prompt is shar
 - [Motion graphics](#motion-graphics) (6)
 - [Games](#game) (2)
 - [Explainers](#explainer) (2)
-- [Tests & comparisons](#comparison) (34)
+- [Tests & comparisons](#comparison) (37)
 
 <a id="3d-scene"></a>
 
@@ -965,4 +965,56 @@ Kimi built the coziest one: a real peak, gondolas gliding up, a lodge on top.
 Astra was the fastest and the most expensive, yet its island feels the emptiest and the flattest.
 
 4.5x cheaper and way more detailed. Which one would you ride?
+```
+
+### Flappy Bird recreation comparison across three AI models
+
+[@zodchiii](https://x.com/zodchiii/status/2117251130929643942) · 0:27 · [Watch](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117251130929643942/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117251130929643942?utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+I gave Claude Opus 5.5, GPT-6 Astra and Kimi K3.1 Pro the same prompt:
+
+"Recreate Flappy Bird as if it launched in 2026. Make it a single playable HTML file."
+
+Here's what each one built 👇
+
+One prompt got a full game. Imagine what Opus 5.5 does once it's set up properly. 
+
+Bookmark the full setup guide below.
+```
+
+### Cutaway steam locomotive animation comparison across three models
+
+[@HavisT83099](https://x.com/HavisT83099/status/2117300733464772620) · 0:18 · [Watch](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117300733464772620/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117300733464772620?utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+I ASKED CLAUDE, CHATGPT AND KIMI TO BUILD A F*CKING STEAM LOCOMOTIVE, CUT OPEN.
+
+Same prompt: the whole engine from the side. Fire heats the water, steam runs to the piston, the rods turn 3 big driving wheels, smoke comes out the chimney, a seamless 12-second loop. One try each, zero edits.
+
+/ Claude Opus 5.5: 9 min, ~$1.19. The biggest fire of the 3, a boiler packed with glowing fire tubes, and you can watch the steam run along the pipe into the cylinder.
+/ ChatGPT (GPT-6 Astra): the cleanest drawing, it even brought a coal tender. But the firebox is tiny and the steam pipe is just a brass line.
+/ Kimi K3.1 Pro: 6 min, $0.15. The most real-looking engine, brass dome and cowcatcher included, but the fire hides behind the boiler.
+
+Claude cost 8x more than Kimi. Which one would you put on the rails?
+
+Top: Claude. Middle: ChatGPT. Bottom: Kimi.
+```
+
+### Subway Surfers recreation comparison across three AI models
+
+[@zodchiii](https://x.com/zodchiii/status/2117354881950650743) · 0:24 · [Watch](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117354881950650743/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117354881950650743?utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+This is just crazy...
+
+I gave Claude Opus 5.5, GPT-6 Astra and Kimi K3.1 Pro the same prompt:
+
+"Recreate Subway Surfers as if it launched in 2026. Make it a single playable HTML file."
+
+Here's what each one built.
+
+One prompt got a full 3D runner. Imagine what Opus does once it's set up properly.
+
+Bookmark the full Opus 5.5 guide below👇
 ```

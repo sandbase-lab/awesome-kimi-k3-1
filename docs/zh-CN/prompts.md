@@ -2,7 +2,7 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 55 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
+共 58 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
@@ -10,7 +10,7 @@
 - [动效](#motion-graphics) (6)
 - [游戏](#game) (2)
 - [讲解](#explainer) (2)
-- [测试对比](#comparison) (34)
+- [测试对比](#comparison) (37)
 
 <a id="3d-scene"></a>
 
@@ -965,4 +965,56 @@ Kimi built the coziest one: a real peak, gondolas gliding up, a lodge on top.
 Astra was the fastest and the most expensive, yet its island feels the emptiest and the flattest.
 
 4.5x cheaper and way more detailed. Which one would you ride?
+```
+
+### 三款AI模型重构Flappy Bird对比
+
+[@zodchiii](https://x.com/zodchiii/status/2117251130929643942) · 0:27 · [观看](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117251130929643942/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117251130929643942?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+I gave Claude Opus 5.5, GPT-6 Astra and Kimi K3.1 Pro the same prompt:
+
+"Recreate Flappy Bird as if it launched in 2026. Make it a single playable HTML file."
+
+Here's what each one built 👇
+
+One prompt got a full game. Imagine what Opus 5.5 does once it's set up properly. 
+
+Bookmark the full setup guide below.
+```
+
+### 三款模型制作蒸汽机车剖面动画对比
+
+[@HavisT83099](https://x.com/HavisT83099/status/2117300733464772620) · 0:18 · [观看](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117300733464772620/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117300733464772620?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+I ASKED CLAUDE, CHATGPT AND KIMI TO BUILD A F*CKING STEAM LOCOMOTIVE, CUT OPEN.
+
+Same prompt: the whole engine from the side. Fire heats the water, steam runs to the piston, the rods turn 3 big driving wheels, smoke comes out the chimney, a seamless 12-second loop. One try each, zero edits.
+
+/ Claude Opus 5.5: 9 min, ~$1.19. The biggest fire of the 3, a boiler packed with glowing fire tubes, and you can watch the steam run along the pipe into the cylinder.
+/ ChatGPT (GPT-6 Astra): the cleanest drawing, it even brought a coal tender. But the firebox is tiny and the steam pipe is just a brass line.
+/ Kimi K3.1 Pro: 6 min, $0.15. The most real-looking engine, brass dome and cowcatcher included, but the fire hides behind the boiler.
+
+Claude cost 8x more than Kimi. Which one would you put on the rails?
+
+Top: Claude. Middle: ChatGPT. Bottom: Kimi.
+```
+
+### 三款AI模型重构地铁跑酷对比
+
+[@zodchiii](https://x.com/zodchiii/status/2117354881950650743) · 0:24 · [观看](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117354881950650743/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117354881950650743?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+This is just crazy...
+
+I gave Claude Opus 5.5, GPT-6 Astra and Kimi K3.1 Pro the same prompt:
+
+"Recreate Subway Surfers as if it launched in 2026. Make it a single playable HTML file."
+
+Here's what each one built.
+
+One prompt got a full 3D runner. Imagine what Opus does once it's set up properly.
+
+Bookmark the full Opus 5.5 guide below👇
 ```

@@ -2457,24 +2457,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2113944297620017458"
  },
  {
-  "id": "2113944680631275903",
-  "title": "A 3D forest walkthrough scene in Three.js",
-  "title_zh": "Three.js森林漫游3D场景",
-  "category": "3d-scene",
-  "author": {
-   "handle": "leo114119",
-   "name": "Leo · Building w/ AI"
-  },
-  "postUrl": "https://x.com/leo114119/status/2113944680631275903",
-  "createdAt": "2026-10-24T10:44:21.000Z",
-  "durationMs": 32900,
-  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113944680631275903/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113944680631275903/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2113944680631275903"
- },
- {
   "id": "2113974830215098859",
   "title": "Simulating the sinking Titanic in Kimi vs Opus",
   "title_zh": "Kimi与Opus模拟泰坦尼克号沉没对比",
@@ -5003,5 +4985,98 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2116909923514847584/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2116909923514847584"
+ },
+ {
+  "id": "2117201017083515161",
+  "title": "Swordsman traversing floating islands to a cloud city",
+  "title_zh": "剑客穿越浮空岛进入云端城池",
+  "category": "3d-scene",
+  "author": {
+   "handle": "leo114119",
+   "name": "Leo · Building w/ AI"
+  },
+  "postUrl": "https://x.com/leo114119/status/2117201017083515161",
+  "createdAt": "2026-11-02T10:23:52.000Z",
+  "durationMs": 15500,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117201017083515161/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117201017083515161/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117201017083515161"
+ },
+ {
+  "id": "2117251130929643942",
+  "title": "Flappy Bird recreation comparison across three AI models",
+  "title_zh": "三款AI模型重构Flappy Bird对比",
+  "category": "comparison",
+  "author": {
+   "handle": "zodchiii",
+   "name": "darkzodchi"
+  },
+  "postUrl": "https://x.com/zodchiii/status/2117251130929643942",
+  "createdAt": "2026-11-02T13:43:00.000Z",
+  "durationMs": 26570,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117251130929643942/video.mp4",
+  "promptShared": true,
+  "promptText": "I gave Claude Opus 5.5, GPT-6 Astra and Kimi K3.1 Pro the same prompt:\n\n\"Recreate Flappy Bird as if it launched in 2026. Make it a single playable HTML file.\"\n\nHere's what each one built 👇\n\nOne prompt got a full game. Imagine what Opus 5.5 does once it's set up properly. \n\nBookmark the full setup guide below.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117251130929643942/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117251130929643942"
+ },
+ {
+  "id": "2117269927266484380",
+  "title": "Comparison of fishing game graphics across four models",
+  "title_zh": "四款模型钓鱼游戏画面对比",
+  "category": "comparison",
+  "author": {
+   "handle": "polinaaAi",
+   "name": "Polinaa | Ai arc"
+  },
+  "postUrl": "https://x.com/polinaaAi/status/2117269927266484380",
+  "createdAt": "2026-11-02T14:57:42.000Z",
+  "durationMs": 24000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117269927266484380/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117269927266484380/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117269927266484380"
+ },
+ {
+  "id": "2117300733464772620",
+  "title": "Cutaway steam locomotive animation comparison across three models",
+  "title_zh": "三款模型制作蒸汽机车剖面动画对比",
+  "category": "comparison",
+  "author": {
+   "handle": "HavisT83099",
+   "name": "Havis | Claude Code"
+  },
+  "postUrl": "https://x.com/HavisT83099/status/2117300733464772620",
+  "createdAt": "2026-11-02T17:00:07.000Z",
+  "durationMs": 18400,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117300733464772620/video.mp4",
+  "promptShared": true,
+  "promptText": "I ASKED CLAUDE, CHATGPT AND KIMI TO BUILD A F*CKING STEAM LOCOMOTIVE, CUT OPEN.\n\nSame prompt: the whole engine from the side. Fire heats the water, steam runs to the piston, the rods turn 3 big driving wheels, smoke comes out the chimney, a seamless 12-second loop. One try each, zero edits.\n\n/ Claude Opus 5.5: 9 min, ~$1.19. The biggest fire of the 3, a boiler packed with glowing fire tubes, and you can watch the steam run along the pipe into the cylinder.\n/ ChatGPT (GPT-6 Astra): the cleanest drawing, it even brought a coal tender. But the firebox is tiny and the steam pipe is just a brass line.\n/ Kimi K3.1 Pro: 6 min, $0.15. The most real-looking engine, brass dome and cowcatcher included, but the fire hides behind the boiler.\n\nClaude cost 8x more than Kimi. Which one would you put on the rails?\n\nTop: Claude. Middle: ChatGPT. Bottom: Kimi.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117300733464772620/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117300733464772620"
+ },
+ {
+  "id": "2117354881950650743",
+  "title": "Subway Surfers recreation comparison across three AI models",
+  "title_zh": "三款AI模型重构地铁跑酷对比",
+  "category": "comparison",
+  "author": {
+   "handle": "zodchiii",
+   "name": "darkzodchi"
+  },
+  "postUrl": "https://x.com/zodchiii/status/2117354881950650743",
+  "createdAt": "2026-11-02T20:35:17.000Z",
+  "durationMs": 24055,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117354881950650743/video.mp4",
+  "promptShared": true,
+  "promptText": "This is just crazy...\n\nI gave Claude Opus 5.5, GPT-6 Astra and Kimi K3.1 Pro the same prompt:\n\n\"Recreate Subway Surfers as if it launched in 2026. Make it a single playable HTML file.\"\n\nHere's what each one built.\n\nOne prompt got a full 3D runner. Imagine what Opus does once it's set up properly.\n\nBookmark the full Opus 5.5 guide below👇",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117354881950650743/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117354881950650743"
  }
 ]
