@@ -2,7 +2,7 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-58 Kimi K3.1 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with K3.1 on SandBase Lab. New to prompting K3.1? Start with the [prompt guide](prompt-guide.md).
+59 Kimi K3.1 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with K3.1 on SandBase Lab. New to prompting K3.1? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
@@ -10,7 +10,7 @@ Each entry quotes the creator's post as published on X, where the prompt is shar
 - [Motion graphics](#motion-graphics) (6)
 - [Games](#game) (2)
 - [Explainers](#explainer) (2)
-- [Tests & comparisons](#comparison) (37)
+- [Tests & comparisons](#comparison) (38)
 
 <a id="3d-scene"></a>
 
@@ -1017,4 +1017,33 @@ Here's what each one built.
 One prompt got a full 3D runner. Imagine what Opus does once it's set up properly.
 
 Bookmark the full Opus 5.5 guide below👇
+```
+
+### Comparing four AI models building a mountain landscape
+
+[@Marlenuii](https://x.com/Marlenuii/status/2117570932776558787) · 0:25 · [Watch](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117570932776558787/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117570932776558787?utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+the most expensive AI model didn't even win the visual comparison
+
+I gave 4 different AI workflows the exact same task, build a cinematic 3D mountain landscape with a lake, waterfalls, and realistic lighting
+
+The results were way more interesting than I expected
+
+Kimi K3.1 → $2 in 3 minutes
+GPT-6 Astra → $37 in 12 minutes
+Blender MCP → $70 in 21 minutes
+Claude Code → $115 in 30 minutes
+
+Same landscape, four completely different approaches, and a 57x difference in cost
+
+The expensive builds had more time to develop the scene, but the cheaper versions were surprisingly convincing
+
+And that's what makes this comparison interesting
+
+You're not just comparing image quality anymore
+
+You're comparing how much time, money, and complexity it takes to produce something people actually want to look at
+
+Watch all four before deciding which one wins
 ```

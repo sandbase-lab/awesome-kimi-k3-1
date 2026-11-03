@@ -5078,5 +5078,42 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117354881950650743/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117354881950650743"
+ },
+ {
+  "id": "2117449451706970216",
+  "title": "Playable sci-fi FPS game generated from design document",
+  "title_zh": "AI智能体根据设计文档生成的科幻FPS游戏",
+  "category": "game",
+  "author": {
+   "handle": "coding_xiaoguo",
+   "name": "zacard.eth⭕️☢️"
+  },
+  "postUrl": "https://x.com/coding_xiaoguo/status/2117449451706970216",
+  "createdAt": "2026-11-03T02:51:04.000Z",
+  "durationMs": 35000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117449451706970216/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117449451706970216/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117449451706970216"
+ },
+ {
+  "id": "2117570932776558787",
+  "title": "Comparing four AI models building a mountain landscape",
+  "title_zh": "四种AI工作流生成3D山地景观对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Marlenuii",
+   "name": "Marlen"
+  },
+  "postUrl": "https://x.com/Marlenuii/status/2117570932776558787",
+  "createdAt": "2026-11-03T10:53:47.000Z",
+  "durationMs": 24984,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117570932776558787/video.mp4",
+  "promptShared": true,
+  "promptText": "the most expensive AI model didn't even win the visual comparison\n\nI gave 4 different AI workflows the exact same task, build a cinematic 3D mountain landscape with a lake, waterfalls, and realistic lighting\n\nThe results were way more interesting than I expected\n\nKimi K3.1 → $2 in 3 minutes\nGPT-6 Astra → $37 in 12 minutes\nBlender MCP → $70 in 21 minutes\nClaude Code → $115 in 30 minutes\n\nSame landscape, four completely different approaches, and a 57x difference in cost\n\nThe expensive builds had more time to develop the scene, but the cheaper versions were surprisingly convincing\n\nAnd that's what makes this comparison interesting\n\nYou're not just comparing image quality anymore\n\nYou're comparing how much time, money, and complexity it takes to produce something people actually want to look at\n\nWatch all four before deciding which one wins",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117570932776558787/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117570932776558787"
  }
 ]
