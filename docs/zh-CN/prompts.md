@@ -2,7 +2,7 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 59 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
+共 60 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
@@ -10,7 +10,7 @@
 - [动效](#motion-graphics) (6)
 - [游戏](#game) (2)
 - [讲解](#explainer) (2)
-- [测试对比](#comparison) (38)
+- [测试对比](#comparison) (39)
 
 <a id="3d-scene"></a>
 
@@ -1046,4 +1046,20 @@ You're not just comparing image quality anymore
 You're comparing how much time, money, and complexity it takes to produce something people actually want to look at
 
 Watch all four before deciding which one wins
+```
+
+### 鹈鹕骑自行车SVG动画生成对比
+
+[@xueyu1125](https://x.com/xueyu1125/status/2117951147239682360) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117951147239682360/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117951147239682360?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+Hy4正式版鹈鹕测试第二波，对比Hy4 Preview、DeepSeek V4.1 Flash 1017、Kimi K3.1 Pro
+
+完全一样的提示词: 生成一个svg动画：鹈鹕骑自行车，用H5给我展示下
+
+鹈鹕这一块我的排名是：
+
+DeepSeek V4.1 Flash 1017 >  Kimi K3.1 Pro >  Hy4 > Hy4 Preview
+
+对比见下方👇 你们心目中的排名是什么
 ```

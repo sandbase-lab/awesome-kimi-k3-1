@@ -5098,6 +5098,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117449451706970216"
  },
  {
+  "id": "2117564658953675051",
+  "title": "Multilingual inconsistency test in 3D island generation",
+  "title_zh": "3D岛屿生成的跨语言一致性测试",
+  "category": "comparison",
+  "author": {
+   "handle": "SKYEVAL_AI",
+   "name": "SKYEVAL"
+  },
+  "postUrl": "https://x.com/SKYEVAL_AI/status/2117564658953675051",
+  "createdAt": "2026-11-03T10:28:51.000Z",
+  "durationMs": 25483,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117564658953675051/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117564658953675051/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117564658953675051"
+ },
+ {
   "id": "2117570932776558787",
   "title": "Comparing four AI models building a mountain landscape",
   "title_zh": "四种AI工作流生成3D山地景观对比",
@@ -5115,5 +5133,222 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117570932776558787/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117570932776558787"
+ },
+ {
+  "id": "2117872506749297151",
+  "title": "Voxel pagoda generation comparison across models",
+  "title_zh": "多模型3D体素宝塔生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "MingTian685474",
+   "name": "Aurora"
+  },
+  "postUrl": "https://x.com/MingTian685474/status/2117872506749297151",
+  "createdAt": "2026-11-04T06:52:08.000Z",
+  "durationMs": 20000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117872506749297151/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117872506749297151/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117872506749297151"
+ },
+ {
+  "id": "2117883443669307569",
+  "title": "The slap meme parodying AI model competition",
+  "title_zh": "恶搞AI模型竞争的巴掌模因视频",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "rdominguezibar",
+   "name": "Ruben"
+  },
+  "postUrl": "https://x.com/rdominguezibar/status/2117883443669307569",
+  "createdAt": "2026-11-04T07:35:35.000Z",
+  "durationMs": 38848,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117883443669307569/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117883443669307569/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117883443669307569"
+ },
+ {
+  "id": "2117951147239682360",
+  "title": "Pelican riding bicycle SVG animation comparison",
+  "title_zh": "鹈鹕骑自行车SVG动画生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "xueyu1125",
+   "name": "雪瑜"
+  },
+  "postUrl": "https://x.com/xueyu1125/status/2117951147239682360",
+  "createdAt": "2026-11-04T12:04:37.000Z",
+  "durationMs": 19551,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117951147239682360/video.mp4",
+  "promptShared": true,
+  "promptText": "Hy4正式版鹈鹕测试第二波，对比Hy4 Preview、DeepSeek V4.1 Flash 1017、Kimi K3.1 Pro\n\n完全一样的提示词: 生成一个svg动画：鹈鹕骑自行车，用H5给我展示下\n\n鹈鹕这一块我的排名是：\n\nDeepSeek V4.1 Flash 1017 >  Kimi K3.1 Pro >  Hy4 > Hy4 Preview\n\n对比见下方👇 你们心目中的排名是什么",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117951147239682360/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117951147239682360"
+ },
+ {
+  "id": "2117973135165370492",
+  "title": "Comparing animated SVG pelican on bicycle across models",
+  "title_zh": "国产模型鹈鹕骑自行车SVG动画横评",
+  "category": "comparison",
+  "author": {
+   "handle": "xiangxiang103",
+   "name": "雨哥向前冲"
+  },
+  "postUrl": "https://x.com/xiangxiang103/status/2117973135165370492",
+  "createdAt": "2026-11-04T13:32:00.000Z",
+  "durationMs": 16000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117973135165370492/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117973135165370492/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117973135165370492"
+ },
+ {
+  "id": "2118033077121524129",
+  "title": "Frontier model benchmark results in Agent Arena",
+  "title_zh": "Agent Arena前沿模型基准测试对比",
+  "category": "data-viz",
+  "author": {
+   "handle": "arena",
+   "name": "Arena.ai"
+  },
+  "postUrl": "https://x.com/arena/status/2118033077121524129",
+  "createdAt": "2026-11-04T17:30:11.000Z",
+  "durationMs": 14000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118033077121524129/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118033077121524129/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118033077121524129"
+ },
+ {
+  "id": "2118052051506880815",
+  "title": "Comparing 3D destruction costs in Hy4 and Kimi",
+  "title_zh": "Hy4与Kimi 3D破坏测试成本对比",
+  "category": "comparison",
+  "author": {
+   "handle": "ivanainai",
+   "name": "Ivana"
+  },
+  "postUrl": "https://x.com/ivanainai/status/2118052051506880815",
+  "createdAt": "2026-11-04T18:45:35.000Z",
+  "durationMs": 62000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118052051506880815/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118052051506880815/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118052051506880815"
+ },
+ {
+  "id": "2118054521800982963",
+  "title": "Interactive 3D cutaway models for learning machine anatomy",
+  "title_zh": "用于学习机械构造的交互式3D剖切模型",
+  "category": "ui-demo",
+  "author": {
+   "handle": "Astrodevil_",
+   "name": "Mr. Ånand"
+  },
+  "postUrl": "https://x.com/Astrodevil_/status/2118054521800982963",
+  "createdAt": "2026-11-04T18:55:24.000Z",
+  "durationMs": 89666,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118054521800982963/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118054521800982963/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118054521800982963"
+ },
+ {
+  "id": "2118059586448134519",
+  "title": "Interactive 3D machine learning app with study sheets",
+  "title_zh": "支持学习讲义的交互式3D机械学习应用",
+  "category": "ui-demo",
+  "author": {
+   "handle": "Astrodevil_",
+   "name": "Mr. Ånand"
+  },
+  "postUrl": "https://x.com/Astrodevil_/status/2118059586448134519",
+  "createdAt": "2026-11-04T19:15:31.000Z",
+  "durationMs": 59933,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118059586448134519/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118059586448134519/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118059586448134519"
+ },
+ {
+  "id": "2118059786944369107",
+  "title": "3D worlds generated with Kimi K3.1 Pro",
+  "title_zh": "Kimi K3.1 Pro生成的3D世界",
+  "category": "3d-scene",
+  "author": {
+   "handle": "_akhaliq",
+   "name": "AK"
+  },
+  "postUrl": "https://x.com/_akhaliq/status/2118059786944369107",
+  "createdAt": "2026-11-04T19:16:19.000Z",
+  "durationMs": 48583,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118059786944369107/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118059786944369107/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118059786944369107"
+ },
+ {
+  "id": "2118060272388813283",
+  "title": "Coding benchmark comparison between Kimi and Opus",
+  "title_zh": "Kimi与Opus网页构建对比测试",
+  "category": "comparison",
+  "author": {
+   "handle": "d0znpp",
+   "name": "Ivan Novikov"
+  },
+  "postUrl": "https://x.com/d0znpp/status/2118060272388813283",
+  "createdAt": "2026-11-04T19:18:15.000Z",
+  "durationMs": 26750,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118060272388813283/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118060272388813283/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118060272388813283"
+ },
+ {
+  "id": "2118064983464640611",
+  "title": "Turning a napkin sketch into a 3D model",
+  "title_zh": "将纸巾草图转换为3D打印模型",
+  "category": "ui-demo",
+  "author": {
+   "handle": "Arindam_1729",
+   "name": "Arindam Majumder 𝕏"
+  },
+  "postUrl": "https://x.com/Arindam_1729/status/2118064983464640611",
+  "createdAt": "2026-11-04T19:36:58.000Z",
+  "durationMs": 61500,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118064983464640611/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118064983464640611/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118064983464640611"
+ },
+ {
+  "id": "2118077145801195721",
+  "title": "Exploding mirrorless camera in procedural Three.js",
+  "title_zh": "Three.js程序化无反相机爆炸图",
+  "category": "3d-scene",
+  "author": {
+   "handle": "HowDevelop",
+   "name": "Shivay Lamba"
+  },
+  "postUrl": "https://x.com/HowDevelop/status/2118077145801195721",
+  "createdAt": "2026-11-04T20:25:18.000Z",
+  "durationMs": 31481,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118077145801195721/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118077145801195721/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118077145801195721"
  }
 ]
