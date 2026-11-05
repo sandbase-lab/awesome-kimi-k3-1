@@ -5208,6 +5208,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117973135165370492"
  },
  {
+  "id": "2117990074663268413",
+  "title": "First-Person 3D Cafe Game in Three.js",
+  "title_zh": "使用Three.js构建的第一人称3D咖啡厅经营游戏",
+  "category": "game",
+  "author": {
+   "handle": "KimiAI_Studio",
+   "name": "Kimi AI Studio"
+  },
+  "postUrl": "https://x.com/KimiAI_Studio/status/2117990074663268413",
+  "createdAt": "2026-11-04T14:39:18.000Z",
+  "durationMs": 73300,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117990074663268413/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117990074663268413/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117990074663268413"
+ },
+ {
   "id": "2118033077121524129",
   "title": "Frontier model benchmark results in Agent Arena",
   "title_zh": "Agent Arena前沿模型基准测试对比",
@@ -5224,6 +5242,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118033077121524129/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118033077121524129"
+ },
+ {
+  "id": "2118045781525737580",
+  "title": "Blender Airport Rainforest Rendered via Python Scripts",
+  "title_zh": "通过Python脚本渲染的Blender机场雨林",
+  "category": "3d-scene",
+  "author": {
+   "handle": "wildmindai",
+   "name": "Wildminder"
+  },
+  "postUrl": "https://x.com/wildmindai/status/2118045781525737580",
+  "createdAt": "2026-11-04T18:20:40.000Z",
+  "durationMs": 61610,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118045781525737580/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118045781525737580/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118045781525737580"
  },
  {
   "id": "2118052051506880815",
@@ -5350,5 +5386,113 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118077145801195721/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118077145801195721"
+ },
+ {
+  "id": "2118098447110955258",
+  "title": "Alpine Ski Binding Modeled in Three.js and Blender",
+  "title_zh": "使用Three.js与Blender建模的高山滑雪固定器",
+  "category": "3d-scene",
+  "author": {
+   "handle": "gareofeasttown",
+   "name": "Garrett O'Brien"
+  },
+  "postUrl": "https://x.com/gareofeasttown/status/2118098447110955258",
+  "createdAt": "2026-11-04T21:49:56.000Z",
+  "durationMs": 5000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118098447110955258/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118098447110955258/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118098447110955258"
+ },
+ {
+  "id": "2118173039468871872",
+  "title": "Multilingual 3D Island Generation Comparison",
+  "title_zh": "多语言3D岛屿生成效果对比评测",
+  "category": "comparison",
+  "author": {
+   "handle": "SKYEVAL_AI",
+   "name": "SKYEVAL"
+  },
+  "postUrl": "https://x.com/SKYEVAL_AI/status/2118173039468871872",
+  "createdAt": "2026-11-05T02:46:21.000Z",
+  "durationMs": 25483,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118173039468871872/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118173039468871872/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118173039468871872"
+ },
+ {
+  "id": "2118260184007275001",
+  "title": "Generating a 3D Character Model from a Single Illustration",
+  "title_zh": "基于单张插画直接生成3D角色模型",
+  "category": "3d-scene",
+  "author": {
+   "handle": "KimiAI_Studio",
+   "name": "Kimi AI Studio"
+  },
+  "postUrl": "https://x.com/KimiAI_Studio/status/2118260184007275001",
+  "createdAt": "2026-11-05T08:32:37.000Z",
+  "durationMs": 20426,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118260184007275001/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118260184007275001/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118260184007275001"
+ },
+ {
+  "id": "2118363335561552141",
+  "title": "Turning an ArXiv Paper into an Interactive Explainer",
+  "title_zh": "将arXiv论文转化为交互式互动讲解课件",
+  "category": "explainer",
+  "author": {
+   "handle": "Arindam_1729",
+   "name": "Arindam Majumder 𝕏"
+  },
+  "postUrl": "https://x.com/Arindam_1729/status/2118363335561552141",
+  "createdAt": "2026-11-05T15:22:31.000Z",
+  "durationMs": 81600,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118363335561552141/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118363335561552141/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118363335561552141"
+ },
+ {
+  "id": "2118385747988529423",
+  "title": "Contra-style game generated by two models",
+  "title_zh": "两款模型生成的魂斗罗风格游戏对比",
+  "category": "comparison",
+  "author": {
+   "handle": "novita_labs",
+   "name": "Novita AI"
+  },
+  "postUrl": "https://x.com/novita_labs/status/2118385747988529423",
+  "createdAt": "2026-11-05T16:51:34.000Z",
+  "durationMs": 5566,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118385747988529423/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118385747988529423/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118385747988529423"
+ },
+ {
+  "id": "2118407100799893901",
+  "title": "Interactive 3D Cutaway Machine Explorer",
+  "title_zh": "可交互3D机器解构探索工具",
+  "category": "3d-scene",
+  "author": {
+   "handle": "nebiustf",
+   "name": "Nebius Token Factory"
+  },
+  "postUrl": "https://x.com/nebiustf/status/2118407100799893901",
+  "createdAt": "2026-11-05T18:16:25.000Z",
+  "durationMs": 20458,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118407100799893901/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118407100799893901/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118407100799893901"
  }
 ]
