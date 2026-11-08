@@ -2,7 +2,7 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 60 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
+共 59 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
@@ -10,7 +10,7 @@
 - [动效](#motion-graphics) (6)
 - [游戏](#game) (2)
 - [讲解](#explainer) (2)
-- [测试对比](#comparison) (39)
+- [测试对比](#comparison) (38)
 
 <a id="3d-scene"></a>
 
@@ -883,37 +883,6 @@ Both are impressive. They just chose different priorities: Opus went for spectac
 The wild part is how far the water alone goes. Two models, same prompt, and the sea looks like two different planets.
 
 Watch the full clip and tell me: which ship would you sail on?
-```
-
-### 电影级 3D 高山湖泊渲染效果对比
-
-[@Lummox_eth](https://x.com/Lummox_eth/status/2115164427657904336) · 0:25 · [观看](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2115164427657904336/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2115164427657904336?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
-
-```text
-It’s becoming f*cking ridiculous that one AI can build an entire cinematic 3D world for $11 in 3 minutes while another charges $115 and takes 30 minutes for the same task
-
-The difference is almost 10X in both cost and time
-
-I compared 4 AI workflows building the exact same environment
-
-→ Kimi K3.1: $11 in 3 minutes
-→ GPT 6 Astra: $45 in 12 minutes
-→ Blender MCP: $74 in 21 minutes
-→ Claude Code: $115 in 30 minutes
-
-The interesting part is how much work a single prompt can now replace
-
-Here’s the exact challenge you can copy and run yourself
-
-“Create a cinematic 3D alpine lake in Blender with 2 mountain ranges, a 12m waterfall, realistic water reflections, a boat moving at 3 m/s, golden hour lighting and a 10 second camera animation at 30 FPS, export the final scene as MP4”
-
-Run it through your preferred AI coding agent connected to Blender and compare the results
-
-The next big advantage in 3D creation might not be the most powerful model
-
-It might be knowing which model gets you 90% of the result for 10% of the cost
-
-Save this prompt before your next 3D project
 ```
 
 ### 双模型程序化Three.js爆炸燃烧车辆对比

@@ -49,7 +49,7 @@
   "durationMs": 70016,
   "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113186973363929470/video.mp4",
   "promptShared": false,
-  "featured": 1,
+  "featured": 2,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113186973363929470/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2113186973363929470"
  },
@@ -363,24 +363,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113285555165581763/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2113285555165581763"
- },
- {
-  "id": "2113287408699728207",
-  "title": "3D pixel pagoda with four seasons views",
-  "title_zh": "Kimi K3.1生成的四季3D像素宝塔",
-  "category": "3d-scene",
-  "author": {
-   "handle": "leo114119",
-   "name": "Leo · Building w/ AI"
-  },
-  "postUrl": "https://x.com/leo114119/status/2113287408699728207",
-  "createdAt": "2026-10-22T15:12:35.000Z",
-  "durationMs": 33900,
-  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113287408699728207/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113287408699728207/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2113287408699728207"
  },
  {
   "id": "2113291375697682940",
@@ -962,7 +944,7 @@
   "durationMs": 30000,
   "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113683399680700591/video.mp4",
   "promptShared": false,
-  "featured": 6,
+  "featured": 7,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113683399680700591/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2113683399680700591"
  },
@@ -1107,7 +1089,7 @@
   "durationMs": 82505,
   "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113694356939112498/video.mp4",
   "promptShared": false,
-  "featured": 5,
+  "featured": 6,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113694356939112498/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2113694356939112498"
  },
@@ -1907,7 +1889,7 @@
   "durationMs": 14964,
   "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113749533410955458/video.mp4",
   "promptShared": false,
-  "featured": 3,
+  "featured": 4,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113749533410955458/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2113749533410955458"
  },
@@ -2324,7 +2306,7 @@
   "durationMs": 22293,
   "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113919155149943093/video.mp4",
   "promptShared": false,
-  "featured": 4,
+  "featured": 5,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113919155149943093/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2113919155149943093"
  },
@@ -2818,7 +2800,7 @@
   "durationMs": 54800,
   "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2114028190050254878/video.mp4",
   "promptShared": false,
-  "featured": 2,
+  "featured": 3,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2114028190050254878/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2114028190050254878"
  },
@@ -3965,7 +3947,7 @@
   "durationMs": 101540,
   "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2114958387846971570/video.mp4",
   "promptShared": false,
-  "featured": 7,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2114958387846971570/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2114958387846971570"
  },
@@ -4189,25 +4171,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2115107408246890499"
  },
  {
-  "id": "2115164427657904336",
-  "title": "Comparison of cinematic 3D alpine lake renders",
-  "title_zh": "电影级 3D 高山湖泊渲染效果对比",
-  "category": "comparison",
-  "author": {
-   "handle": "Lummox_eth",
-   "name": "Lummox"
-  },
-  "postUrl": "https://x.com/Lummox_eth/status/2115164427657904336",
-  "createdAt": "2026-10-27T19:31:12.000Z",
-  "durationMs": 25000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2115164427657904336/video.mp4",
-  "promptShared": true,
-  "promptText": "It’s becoming f*cking ridiculous that one AI can build an entire cinematic 3D world for $11 in 3 minutes while another charges $115 and takes 30 minutes for the same task\n\nThe difference is almost 10X in both cost and time\n\nI compared 4 AI workflows building the exact same environment\n\n→ Kimi K3.1: $11 in 3 minutes\n→ GPT 6 Astra: $45 in 12 minutes\n→ Blender MCP: $74 in 21 minutes\n→ Claude Code: $115 in 30 minutes\n\nThe interesting part is how much work a single prompt can now replace\n\nHere’s the exact challenge you can copy and run yourself\n\n“Create a cinematic 3D alpine lake in Blender with 2 mountain ranges, a 12m waterfall, realistic water reflections, a boat moving at 3 m/s, golden hour lighting and a 10 second camera animation at 30 FPS, export the final scene as MP4”\n\nRun it through your preferred AI coding agent connected to Blender and compare the results\n\nThe next big advantage in 3D creation might not be the most powerful model\n\nIt might be knowing which model gets you 90% of the result for 10% of the cost\n\nSave this prompt before your next 3D project",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2115164427657904336/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2115164427657904336"
- },
- {
   "id": "2115257358980919771",
   "title": "Code-generated Tokyo night street race comparison",
   "title_zh": "代码生成的东京夜间街头赛车多模型对比",
@@ -4391,24 +4354,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2115444940448702704"
  },
  {
-  "id": "2115460315131400414",
-  "title": "Japanese temple 3D render comparison across four tools",
-  "title_zh": "四款 AI 工具生成日式寺庙 3D 渲染对比",
-  "category": "comparison",
-  "author": {
-   "handle": "Lummox_eth",
-   "name": "Lummox"
-  },
-  "postUrl": "https://x.com/Lummox_eth/status/2115460315131400414",
-  "createdAt": "2026-10-28T15:06:57.000Z",
-  "durationMs": 25006,
-  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2115460315131400414/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2115460315131400414/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2115460315131400414"
- },
- {
   "id": "2115468854751346856",
   "title": "STEM educational video generated with Kimi K3.1 Pro",
   "title_zh": "Kimi-K3.1-Pro制作的STEM科普视频",
@@ -4569,24 +4514,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2115805865731039572/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2115805865731039572"
- },
- {
-  "id": "2115812773590454442",
-  "title": "Desert with hot air balloons test across models",
-  "title_zh": "多模型测试热气球沙漠场景生成",
-  "category": "comparison",
-  "author": {
-   "handle": "Lummox_eth",
-   "name": "Lummox"
-  },
-  "postUrl": "https://x.com/Lummox_eth/status/2115812773590454442",
-  "createdAt": "2026-10-29T14:27:29.000Z",
-  "durationMs": 25000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2115812773590454442/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2115812773590454442/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2115812773590454442"
  },
  {
   "id": "2115815409114898468",
@@ -5494,5 +5421,203 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118407100799893901/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118407100799893901"
+ },
+ {
+  "id": "2118517447699366194",
+  "title": "Guide to building a code audit agent",
+  "title_zh": "构建带安全防护的代码审计智能体",
+  "category": "explainer",
+  "author": {
+   "handle": "swordBluesy",
+   "name": "剑的 AI 实验室"
+  },
+  "postUrl": "https://x.com/swordBluesy/status/2118517447699366194",
+  "createdAt": "2026-11-06T01:34:54.000Z",
+  "durationMs": 45278,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118517447699366194/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118517447699366194/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118517447699366194"
+ },
+ {
+  "id": "2118519644097294395",
+  "title": "3D modeling demonstration with Kimi K3.1 Pro",
+  "title_zh": "Kimi K3.1 Pro 3D建模效果展示",
+  "category": "3d-scene",
+  "author": {
+   "handle": "leo114119",
+   "name": "Leo · Building w/ AI"
+  },
+  "postUrl": "https://x.com/leo114119/status/2118519644097294395",
+  "createdAt": "2026-11-06T01:43:38.000Z",
+  "durationMs": 37936,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118519644097294395/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118519644097294395/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118519644097294395"
+ },
+ {
+  "id": "2118547428920181020",
+  "title": "Motion video created from scratch with Kimi K3.1 Pro",
+  "title_zh": "用Kimi K3.1 Pro从零制作动态视频",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "airplanestar_",
+   "name": "airplanestar 𓂀"
+  },
+  "postUrl": "https://x.com/airplanestar_/status/2118547428920181020",
+  "createdAt": "2026-11-06T03:34:02.000Z",
+  "durationMs": 44000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118547428920181020/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118547428920181020/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118547428920181020"
+ },
+ {
+  "id": "2118659159067357535",
+  "title": "Comparing buggy generation across four AI workflows",
+  "title_zh": "对比四种AI工作流生成越野车模型",
+  "category": "comparison",
+  "author": {
+   "handle": "Lummox_eth",
+   "name": "Lummox"
+  },
+  "postUrl": "https://x.com/Lummox_eth/status/2118659159067357535",
+  "createdAt": "2026-11-06T10:58:00.000Z",
+  "durationMs": 15041,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118659159067357535/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118659159067357535/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118659159067357535"
+ },
+ {
+  "id": "2118704973819310216",
+  "title": "Balatro-inspired browser game comparison",
+  "title_zh": "类小丑牌网页游戏双模型生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "CanopyWave_AI",
+   "name": "Canopy Wave"
+  },
+  "postUrl": "https://x.com/CanopyWave_AI/status/2118704973819310216",
+  "createdAt": "2026-11-06T14:00:04.000Z",
+  "durationMs": 34969,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118704973819310216/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118704973819310216/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118704973819310216"
+ },
+ {
+  "id": "2118714913065517361",
+  "title": "Converting 2D photo into Three.js 3D scene",
+  "title_zh": "将2D图片转为Three.js 3D场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "1littlecoder",
+   "name": "1LittleCoder💻"
+  },
+  "postUrl": "https://x.com/1littlecoder/status/2118714913065517361",
+  "createdAt": "2026-11-06T14:39:33.000Z",
+  "durationMs": 36466,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118714913065517361/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118714913065517361/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118714913065517361"
+ },
+ {
+  "id": "2118775368228409350",
+  "title": "Comparing underwater submarine scenes across four AI workflows",
+  "title_zh": "对比四种AI工作流生成水下潜艇场景",
+  "category": "comparison",
+  "author": {
+   "handle": "Lummox_eth",
+   "name": "Lummox"
+  },
+  "postUrl": "https://x.com/Lummox_eth/status/2118775368228409350",
+  "createdAt": "2026-11-06T18:39:47.000Z",
+  "durationMs": 15041,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118775368228409350/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118775368228409350/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118775368228409350"
+ },
+ {
+  "id": "2118784042883502240",
+  "title": "Online shopping speed run with Kimi K3.1 Pro",
+  "title_zh": "用Kimi K3.1 Pro速通网购流程",
+  "category": "ui-demo",
+  "author": {
+   "handle": "cerebras",
+   "name": "Cerebras"
+  },
+  "postUrl": "https://x.com/cerebras/status/2118784042883502240",
+  "createdAt": "2026-11-06T19:14:15.000Z",
+  "durationMs": 36066,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118784042883502240/video.mp4",
+  "promptShared": false,
+  "featured": 1,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118784042883502240/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118784042883502240"
+ },
+ {
+  "id": "2119027995239194880",
+  "title": "Comparing four AI workflows generating a lighthouse scene",
+  "title_zh": "对比四种生成灯塔场景的AI工作流",
+  "category": "comparison",
+  "author": {
+   "handle": "Lummox_eth",
+   "name": "Lummox"
+  },
+  "postUrl": "https://x.com/Lummox_eth/status/2119027995239194880",
+  "createdAt": "2026-11-07T11:23:38.000Z",
+  "durationMs": 15041,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119027995239194880/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119027995239194880/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119027995239194880"
+ },
+ {
+  "id": "2119039256446292003",
+  "title": "Comparing four AI workflows generating a desert buggy",
+  "title_zh": "对比四种生成越野车的AI工作流",
+  "category": "comparison",
+  "author": {
+   "handle": "Marlenuii",
+   "name": "Marlen"
+  },
+  "postUrl": "https://x.com/Marlenuii/status/2119039256446292003",
+  "createdAt": "2026-11-07T12:08:23.000Z",
+  "durationMs": 15041,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119039256446292003/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119039256446292003/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119039256446292003"
+ },
+ {
+  "id": "2119099723588001901",
+  "title": "3D brain scan visualization generated with Kimi K3.1 Pro",
+  "title_zh": "使用Kimi K3.1 Pro生成的3D脑扫描可视化",
+  "category": "3d-scene",
+  "author": {
+   "handle": "HexxRL",
+   "name": "Hexx ./"
+  },
+  "postUrl": "https://x.com/HexxRL/status/2119099723588001901",
+  "createdAt": "2026-11-07T16:08:39.000Z",
+  "durationMs": 32099,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119099723588001901/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119099723588001901/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119099723588001901"
  }
 ]

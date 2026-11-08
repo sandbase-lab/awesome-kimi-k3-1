@@ -2,7 +2,7 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-60 Kimi K3.1 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with K3.1 on SandBase Lab. New to prompting K3.1? Start with the [prompt guide](prompt-guide.md).
+59 Kimi K3.1 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with K3.1 on SandBase Lab. New to prompting K3.1? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
@@ -10,7 +10,7 @@ Each entry quotes the creator's post as published on X, where the prompt is shar
 - [Motion graphics](#motion-graphics) (6)
 - [Games](#game) (2)
 - [Explainers](#explainer) (2)
-- [Tests & comparisons](#comparison) (39)
+- [Tests & comparisons](#comparison) (38)
 
 <a id="3d-scene"></a>
 
@@ -883,37 +883,6 @@ Both are impressive. They just chose different priorities: Opus went for spectac
 The wild part is how far the water alone goes. Two models, same prompt, and the sea looks like two different planets.
 
 Watch the full clip and tell me: which ship would you sail on?
-```
-
-### Comparison of cinematic 3D alpine lake renders
-
-[@Lummox_eth](https://x.com/Lummox_eth/status/2115164427657904336) · 0:25 · [Watch](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2115164427657904336/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2115164427657904336?utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
-
-```text
-It’s becoming f*cking ridiculous that one AI can build an entire cinematic 3D world for $11 in 3 minutes while another charges $115 and takes 30 minutes for the same task
-
-The difference is almost 10X in both cost and time
-
-I compared 4 AI workflows building the exact same environment
-
-→ Kimi K3.1: $11 in 3 minutes
-→ GPT 6 Astra: $45 in 12 minutes
-→ Blender MCP: $74 in 21 minutes
-→ Claude Code: $115 in 30 minutes
-
-The interesting part is how much work a single prompt can now replace
-
-Here’s the exact challenge you can copy and run yourself
-
-“Create a cinematic 3D alpine lake in Blender with 2 mountain ranges, a 12m waterfall, realistic water reflections, a boat moving at 3 m/s, golden hour lighting and a 10 second camera animation at 30 FPS, export the final scene as MP4”
-
-Run it through your preferred AI coding agent connected to Blender and compare the results
-
-The next big advantage in 3D creation might not be the most powerful model
-
-It might be knowing which model gets you 90% of the result for 10% of the cost
-
-Save this prompt before your next 3D project
 ```
 
 ### Procedural Three.js burning car comparison across two models
