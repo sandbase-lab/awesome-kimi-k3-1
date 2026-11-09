@@ -2,11 +2,11 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 59 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
+共 60 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
-- [3D 场景](#3d-scene) (11)
+- [3D 场景](#3d-scene) (12)
 - [动效](#motion-graphics) (6)
 - [游戏](#game) (2)
 - [讲解](#explainer) (2)
@@ -187,6 +187,25 @@ FBM扰动中线生成蜿蜒汴河，道路沿河生长；程序化生成宋式�
 最终效果如下 👇
 
 现在用AI做视频方便太多了，只要用心，一定能产出精品！
+```
+
+### 索尼克在死蛋基地奔跑渲染图
+
+[@luksamuk](https://x.com/luksamuk/status/2119148382157705380) · 0:05 · [观看](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119148382157705380/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119148382157705380?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+Working with MiniMax H3 today... rendered Sonic on Death Egg Zone.
+
+What I wanted to see here is whether I could use P-H3-Image (basically MiniMax H3 adapted so it produces an image instead of a video) with similar prompts and with my prompt enhancer / LoRA selector. And here's the results.
+
+Some extra stuff:
+Prompt enhancer: Kimi K3.1 Pro
+LoRA selector: Liquid AI d1-2B
+Original enhanced prompt: "Faça uma imagem realista do Sonic The Hedgehog (use o estilo dos jogos 3D, e não do filme) correndo pela Death Egg Zone. Não renderize nenhum ring ou coletável, apenas o Sonic correndo pela fase. Mostre bastante do fundo, e ao renderizar o Sonic, use a representação clássica em que os braços dele não são azuis."
+Resolutions: 2560x1440 for image, 1344x768 for video.
+Video generation was accelerated using enhanced with an 8-step LoRA (MiniMax-H3-FL2VA-Acc-8Step_pruned_comfy). d1-2B also selected "h3_camera_motion_v3297480" to help with camera movement.
+
+Everything running under WanGP.
 ```
 
 <a id="motion-graphics"></a>

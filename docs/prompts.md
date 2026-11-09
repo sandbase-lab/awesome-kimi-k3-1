@@ -2,11 +2,11 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-59 Kimi K3.1 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with K3.1 on SandBase Lab. New to prompting K3.1? Start with the [prompt guide](prompt-guide.md).
+60 Kimi K3.1 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with K3.1 on SandBase Lab. New to prompting K3.1? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
-- [3D scenes](#3d-scene) (11)
+- [3D scenes](#3d-scene) (12)
 - [Motion graphics](#motion-graphics) (6)
 - [Games](#game) (2)
 - [Explainers](#explainer) (2)
@@ -187,6 +187,25 @@ FBM扰动中线生成蜿蜒汴河，道路沿河生长；程序化生成宋式�
 最终效果如下 👇
 
 现在用AI做视频方便太多了，只要用心，一定能产出精品！
+```
+
+### Sonic the Hedgehog running in Death Egg Zone
+
+[@luksamuk](https://x.com/luksamuk/status/2119148382157705380) · 0:05 · [Watch](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119148382157705380/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119148382157705380?utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+Working with MiniMax H3 today... rendered Sonic on Death Egg Zone.
+
+What I wanted to see here is whether I could use P-H3-Image (basically MiniMax H3 adapted so it produces an image instead of a video) with similar prompts and with my prompt enhancer / LoRA selector. And here's the results.
+
+Some extra stuff:
+Prompt enhancer: Kimi K3.1 Pro
+LoRA selector: Liquid AI d1-2B
+Original enhanced prompt: "Faça uma imagem realista do Sonic The Hedgehog (use o estilo dos jogos 3D, e não do filme) correndo pela Death Egg Zone. Não renderize nenhum ring ou coletável, apenas o Sonic correndo pela fase. Mostre bastante do fundo, e ao renderizar o Sonic, use a representação clássica em que os braços dele não são azuis."
+Resolutions: 2560x1440 for image, 1344x768 for video.
+Video generation was accelerated using enhanced with an 8-step LoRA (MiniMax-H3-FL2VA-Acc-8Step_pruned_comfy). d1-2B also selected "h3_camera_motion_v3297480" to help with camera movement.
+
+Everything running under WanGP.
 ```
 
 <a id="motion-graphics"></a>
