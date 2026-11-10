@@ -2,7 +2,7 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 60 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
+共 59 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
@@ -10,7 +10,7 @@
 - [动效](#motion-graphics) (6)
 - [游戏](#game) (2)
 - [讲解](#explainer) (2)
-- [测试对比](#comparison) (38)
+- [测试对比](#comparison) (37)
 
 <a id="3d-scene"></a>
 
@@ -1005,35 +1005,6 @@ Here's what each one built.
 One prompt got a full 3D runner. Imagine what Opus does once it's set up properly.
 
 Bookmark the full Opus 5.5 guide below👇
-```
-
-### 四种AI工作流生成3D山地景观对比
-
-[@Marlenuii](https://x.com/Marlenuii/status/2117570932776558787) · 0:25 · [观看](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117570932776558787/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117570932776558787?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
-
-```text
-the most expensive AI model didn't even win the visual comparison
-
-I gave 4 different AI workflows the exact same task, build a cinematic 3D mountain landscape with a lake, waterfalls, and realistic lighting
-
-The results were way more interesting than I expected
-
-Kimi K3.1 → $2 in 3 minutes
-GPT-6 Astra → $37 in 12 minutes
-Blender MCP → $70 in 21 minutes
-Claude Code → $115 in 30 minutes
-
-Same landscape, four completely different approaches, and a 57x difference in cost
-
-The expensive builds had more time to develop the scene, but the cheaper versions were surprisingly convincing
-
-And that's what makes this comparison interesting
-
-You're not just comparing image quality anymore
-
-You're comparing how much time, money, and complexity it takes to produce something people actually want to look at
-
-Watch all four before deciding which one wins
 ```
 
 ### 鹈鹕骑自行车SVG动画生成对比

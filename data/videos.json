@@ -743,7 +743,7 @@
   "durationMs": 23800,
   "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113611006039761281/video.mp4",
   "promptShared": false,
-  "featured": 0,
+  "featured": 1,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113611006039761281/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2113611006039761281"
  },
@@ -5025,25 +5025,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117564658953675051"
  },
  {
-  "id": "2117570932776558787",
-  "title": "Comparing four AI models building a mountain landscape",
-  "title_zh": "四种AI工作流生成3D山地景观对比",
-  "category": "comparison",
-  "author": {
-   "handle": "Marlenuii",
-   "name": "Marlen"
-  },
-  "postUrl": "https://x.com/Marlenuii/status/2117570932776558787",
-  "createdAt": "2026-11-03T10:53:47.000Z",
-  "durationMs": 24984,
-  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117570932776558787/video.mp4",
-  "promptShared": true,
-  "promptText": "the most expensive AI model didn't even win the visual comparison\n\nI gave 4 different AI workflows the exact same task, build a cinematic 3D mountain landscape with a lake, waterfalls, and realistic lighting\n\nThe results were way more interesting than I expected\n\nKimi K3.1 → $2 in 3 minutes\nGPT-6 Astra → $37 in 12 minutes\nBlender MCP → $70 in 21 minutes\nClaude Code → $115 in 30 minutes\n\nSame landscape, four completely different approaches, and a 57x difference in cost\n\nThe expensive builds had more time to develop the scene, but the cheaper versions were surprisingly convincing\n\nAnd that's what makes this comparison interesting\n\nYou're not just comparing image quality anymore\n\nYou're comparing how much time, money, and complexity it takes to produce something people actually want to look at\n\nWatch all four before deciding which one wins",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2117570932776558787/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2117570932776558787"
- },
- {
   "id": "2117872506749297151",
   "title": "Voxel pagoda generation comparison across models",
   "title_zh": "多模型3D体素宝塔生成对比",
@@ -5459,24 +5440,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118547428920181020"
  },
  {
-  "id": "2118659159067357535",
-  "title": "Comparing buggy generation across four AI workflows",
-  "title_zh": "对比四种AI工作流生成越野车模型",
-  "category": "comparison",
-  "author": {
-   "handle": "Lummox_eth",
-   "name": "Lummox"
-  },
-  "postUrl": "https://x.com/Lummox_eth/status/2118659159067357535",
-  "createdAt": "2026-11-06T10:58:00.000Z",
-  "durationMs": 15041,
-  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118659159067357535/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118659159067357535/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118659159067357535"
- },
- {
   "id": "2118704973819310216",
   "title": "Balatro-inspired browser game comparison",
   "title_zh": "类小丑牌网页游戏双模型生成对比",
@@ -5544,7 +5507,7 @@
   "durationMs": 36066,
   "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118784042883502240/video.mp4",
   "promptShared": false,
-  "featured": 1,
+  "featured": 0,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118784042883502240/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118784042883502240"
  },
@@ -5603,6 +5566,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119099723588001901"
  },
  {
+  "id": "2119113924855402954",
+  "title": "Phone use benchmark between two models",
+  "title_zh": "手机操作能力基准对比测试",
+  "category": "comparison",
+  "author": {
+   "handle": "coastyai",
+   "name": "CoArena (YC S26)"
+  },
+  "postUrl": "https://x.com/coastyai/status/2119113924855402954",
+  "createdAt": "2026-11-07T17:05:05.000Z",
+  "durationMs": 16000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119113924855402954/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119113924855402954/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119113924855402954"
+ },
+ {
   "id": "2119139816608616756",
   "title": "Animation loop generated in a single HTML file",
   "title_zh": "单个HTML文件生成的循环动画",
@@ -5656,6 +5637,42 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119190155001307561/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119190155001307561"
+ },
+ {
+  "id": "2119256260100907064",
+  "title": "One-shot artwork generated using Devin CLI",
+  "title_zh": "通过Devin CLI单次生成的艺术作品",
+  "category": "ui-demo",
+  "author": {
+   "handle": "JustinGorya",
+   "name": "Justin"
+  },
+  "postUrl": "https://x.com/JustinGorya/status/2119256260100907064",
+  "createdAt": "2026-11-08T02:30:40.000Z",
+  "durationMs": 42300,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119256260100907064/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119256260100907064/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119256260100907064"
+ },
+ {
+  "id": "2119364713930690712",
+  "title": "Comparison of four AI workflows building steam train",
+  "title_zh": "四种AI工作流生成蒸汽火车的对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Lummox_eth",
+   "name": "Lummox"
+  },
+  "postUrl": "https://x.com/Lummox_eth/status/2119364713930690712",
+  "createdAt": "2026-11-08T09:41:38.000Z",
+  "durationMs": 15041,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119364713930690712/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119364713930690712/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119364713930690712"
  },
  {
   "id": "2119370191465337203",
@@ -5712,6 +5729,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119460644978373075"
  },
  {
+  "id": "2119461858851623110",
+  "title": "Photorealism and VFX benchmark comparison",
+  "title_zh": "写实渲染与视觉特效基准测试对比",
+  "category": "comparison",
+  "author": {
+   "handle": "NextGenAIVoult",
+   "name": "NextGen AI Videos"
+  },
+  "postUrl": "https://x.com/NextGenAIVoult/status/2119461858851623110",
+  "createdAt": "2026-11-08T16:07:39.000Z",
+  "durationMs": 14860,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119461858851623110/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119461858851623110/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119461858851623110"
+ },
+ {
   "id": "2119492066984050722",
   "title": "Comparison of four AI workflows building Alpine cable car",
   "title_zh": "四种AI工作流生成高山缆车的对比",
@@ -5764,5 +5799,149 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119525031977918733/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119525031977918733"
+ },
+ {
+  "id": "2119544314476867929",
+  "title": "Hypercar 3D models across four AI workflows",
+  "title_zh": "四种AI工作流生成的超级跑车3D模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "m1lo_exe",
+   "name": "Milo"
+  },
+  "postUrl": "https://x.com/m1lo_exe/status/2119544314476867929",
+  "createdAt": "2026-11-08T21:35:18.000Z",
+  "durationMs": 15000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119544314476867929/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119544314476867929/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119544314476867929"
+ },
+ {
+  "id": "2119707060741050694",
+  "title": "Mechanical sandworm 3D model comparison",
+  "title_zh": "机械沙虫3D模型生成效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "qwerty__cs",
+   "name": "拓跋鼠"
+  },
+  "postUrl": "https://x.com/qwerty__cs/status/2119707060741050694",
+  "createdAt": "2026-11-09T08:22:00.000Z",
+  "durationMs": 20181,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119707060741050694/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119707060741050694/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119707060741050694"
+ },
+ {
+  "id": "2119774571947548906",
+  "title": "Rocket launch 3D scenes across four AI workflows",
+  "title_zh": "四种AI工作流生成的火箭发射3D场景对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Marlenuii",
+   "name": "Marlen"
+  },
+  "postUrl": "https://x.com/Marlenuii/status/2119774571947548906",
+  "createdAt": "2026-11-09T12:50:16.000Z",
+  "durationMs": 15041,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119774571947548906/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119774571947548906/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119774571947548906"
+ },
+ {
+  "id": "2119779538666242485",
+  "title": "Voxel pagoda garden generated via CLI",
+  "title_zh": "通过CLI生成的体素宝塔花园",
+  "category": "3d-scene",
+  "author": {
+   "handle": "Chris_Wozniczek",
+   "name": "Chris W"
+  },
+  "postUrl": "https://x.com/Chris_Wozniczek/status/2119779538666242485",
+  "createdAt": "2026-11-09T13:10:00.000Z",
+  "durationMs": 69500,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119779538666242485/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119779538666242485/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119779538666242485"
+ },
+ {
+  "id": "2119780425765667303",
+  "title": "Steam locomotive 3D scenes across four AI workflows",
+  "title_zh": "四种AI工作流生成的蒸汽机车3D场景对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Promixyz",
+   "name": "Promix"
+  },
+  "postUrl": "https://x.com/Promixyz/status/2119780425765667303",
+  "createdAt": "2026-11-09T13:13:31.000Z",
+  "durationMs": 15041,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119780425765667303/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119780425765667303/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119780425765667303"
+ },
+ {
+  "id": "2119795808468160817",
+  "title": "A small cosmos generated from code",
+  "title_zh": "通过代码生成的微缩宇宙场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "CanopyWave_AI",
+   "name": "Canopy Wave"
+  },
+  "postUrl": "https://x.com/CanopyWave_AI/status/2119795808468160817",
+  "createdAt": "2026-11-09T14:14:39.000Z",
+  "durationMs": 28908,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119795808468160817/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119795808468160817/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119795808468160817"
+ },
+ {
+  "id": "2119797967762989315",
+  "title": "Kimi K3.1 Pro vs Kimi K3 benchmark test",
+  "title_zh": "Kimi K3.1 Pro与Kimi K3同提示词基准测试对比",
+  "category": "comparison",
+  "author": {
+   "handle": "AiHubMix",
+   "name": "AIHubmix"
+  },
+  "postUrl": "https://x.com/AiHubMix/status/2119797967762989315",
+  "createdAt": "2026-11-09T14:23:14.000Z",
+  "durationMs": 21200,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119797967762989315/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119797967762989315/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119797967762989315"
+ },
+ {
+  "id": "2119889349537861972",
+  "title": "Off-road buggy 3D models across AI workflows",
+  "title_zh": "不同AI工作流生成的越野车3D模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "0xmurasame",
+   "name": "Murasame"
+  },
+  "postUrl": "https://x.com/0xmurasame/status/2119889349537861972",
+  "createdAt": "2026-11-09T20:26:21.000Z",
+  "durationMs": 15041,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119889349537861972/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119889349537861972/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119889349537861972"
  }
 ]
