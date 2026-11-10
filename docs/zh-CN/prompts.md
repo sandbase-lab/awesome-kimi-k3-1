@@ -2,7 +2,7 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 59 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
+共 60 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
@@ -10,7 +10,7 @@
 - [动效](#motion-graphics) (6)
 - [游戏](#game) (2)
 - [讲解](#explainer) (2)
-- [测试对比](#comparison) (37)
+- [测试对比](#comparison) (38)
 
 <a id="3d-scene"></a>
 
@@ -1021,4 +1021,31 @@ Hy4正式版鹈鹕测试第二波，对比Hy4 Preview、DeepSeek V4.1 Flash 1017
 DeepSeek V4.1 Flash 1017 >  Kimi K3.1 Pro >  Hy4 > Hy4 Preview
 
 对比见下方👇 你们心目中的排名是什么
+```
+
+### 四款AI生成着火建筑前的消防车对比
+
+[@Ai_Raptor_Ai](https://x.com/Ai_Raptor_Ai/status/2120242376769736971) · 0:08 · [观看](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120242376769736971/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120242376769736971?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+Holy f*cking sh*t 
+
+Gave 4 AIs the exact same prompt: “a fire truck at a burning building, night, sirens on” 🚒🔥
+
+The results:
+
+ Opus 5.5, $41
+Wet asphalt reflections, flashing sirens, smoke you can almost smell. Looks like a movie still.
+ Fable 5.5, $36
+Nearly as good, and it was the only one that added firefighters spraying water. Nobody asked it to.
+
+ Kimi K3.1, $112
+Low-poly truck, cartoon fire. The most expensive one looks like a mobile game ad.
+ GPT-6 Astra, $9
+Built the whole thing out of blocks. Cheapest, fastest, and somehow it remembered a fire hydrant.
+
+The price gap between best and worst: 2.7x. In the wrong direction.
+Which one would you actually use? 
+
+The most expensive one lost 💀
 ```

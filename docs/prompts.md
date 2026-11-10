@@ -2,7 +2,7 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-59 Kimi K3.1 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with K3.1 on SandBase Lab. New to prompting K3.1? Start with the [prompt guide](prompt-guide.md).
+60 Kimi K3.1 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with K3.1 on SandBase Lab. New to prompting K3.1? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
@@ -10,7 +10,7 @@ Each entry quotes the creator's post as published on X, where the prompt is shar
 - [Motion graphics](#motion-graphics) (6)
 - [Games](#game) (2)
 - [Explainers](#explainer) (2)
-- [Tests & comparisons](#comparison) (37)
+- [Tests & comparisons](#comparison) (38)
 
 <a id="3d-scene"></a>
 
@@ -1021,4 +1021,31 @@ Hy4正式版鹈鹕测试第二波，对比Hy4 Preview、DeepSeek V4.1 Flash 1017
 DeepSeek V4.1 Flash 1017 >  Kimi K3.1 Pro >  Hy4 > Hy4 Preview
 
 对比见下方👇 你们心目中的排名是什么
+```
+
+### Fire truck at burning building across four models
+
+[@Ai_Raptor_Ai](https://x.com/Ai_Raptor_Ai/status/2120242376769736971) · 0:08 · [Watch](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120242376769736971/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120242376769736971?utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+Holy f*cking sh*t 
+
+Gave 4 AIs the exact same prompt: “a fire truck at a burning building, night, sirens on” 🚒🔥
+
+The results:
+
+ Opus 5.5, $41
+Wet asphalt reflections, flashing sirens, smoke you can almost smell. Looks like a movie still.
+ Fable 5.5, $36
+Nearly as good, and it was the only one that added firefighters spraying water. Nobody asked it to.
+
+ Kimi K3.1, $112
+Low-poly truck, cartoon fire. The most expensive one looks like a mobile game ad.
+ GPT-6 Astra, $9
+Built the whole thing out of blocks. Cheapest, fastest, and somehow it remembered a fire hydrant.
+
+The price gap between best and worst: 2.7x. In the wrong direction.
+Which one would you actually use? 
+
+The most expensive one lost 💀
 ```

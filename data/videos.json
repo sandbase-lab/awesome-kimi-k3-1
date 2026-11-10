@@ -743,7 +743,7 @@
   "durationMs": 23800,
   "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113611006039761281/video.mp4",
   "promptShared": false,
-  "featured": 1,
+  "featured": 0,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113611006039761281/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2113611006039761281"
  },
@@ -2895,24 +2895,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2114079543632003455/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2114079543632003455"
- },
- {
-  "id": "2114085091261682016",
-  "title": "Pelican wheelie benchmark comparison",
-  "title_zh": "鹈鹕翘头基准测试模型对比",
-  "category": "comparison",
-  "author": {
-   "handle": "VulKan42069",
-   "name": "VulKan"
-  },
-  "postUrl": "https://x.com/VulKan42069/status/2114085091261682016",
-  "createdAt": "2026-10-24T20:02:18.000Z",
-  "durationMs": 14272,
-  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2114085091261682016/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2114085091261682016/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2114085091261682016"
  },
  {
   "id": "2114092835729445213",
@@ -5507,7 +5489,7 @@
   "durationMs": 36066,
   "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118784042883502240/video.mp4",
   "promptShared": false,
-  "featured": 0,
+  "featured": 1,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118784042883502240/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118784042883502240"
  },
@@ -5837,24 +5819,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119707060741050694"
  },
  {
-  "id": "2119774571947548906",
-  "title": "Rocket launch 3D scenes across four AI workflows",
-  "title_zh": "四种AI工作流生成的火箭发射3D场景对比",
-  "category": "comparison",
-  "author": {
-   "handle": "Marlenuii",
-   "name": "Marlen"
-  },
-  "postUrl": "https://x.com/Marlenuii/status/2119774571947548906",
-  "createdAt": "2026-11-09T12:50:16.000Z",
-  "durationMs": 15041,
-  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119774571947548906/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119774571947548906/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119774571947548906"
- },
- {
   "id": "2119779538666242485",
   "title": "Voxel pagoda garden generated via CLI",
   "title_zh": "通过CLI生成的体素宝塔花园",
@@ -5927,6 +5891,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119797967762989315"
  },
  {
+  "id": "2119851419423392237",
+  "title": "Arctic icebreaker 3D scenes across four AI workflows",
+  "title_zh": "四种AI工作流生成的北极破冰船3D场景对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Marlenuii",
+   "name": "Marlen"
+  },
+  "postUrl": "https://x.com/Marlenuii/status/2119851419423392237",
+  "createdAt": "2026-11-09T17:55:37.000Z",
+  "durationMs": 15041,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119851419423392237/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119851419423392237/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119851419423392237"
+ },
+ {
   "id": "2119889349537861972",
   "title": "Off-road buggy 3D models across AI workflows",
   "title_zh": "不同AI工作流生成的越野车3D模型对比",
@@ -5943,5 +5925,96 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119889349537861972/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119889349537861972"
+ },
+ {
+  "id": "2119907104597102987",
+  "title": "Comparing 3D scene generation across four AI workflows",
+  "title_zh": "四种AI工作流生成3D场景对比测试",
+  "category": "comparison",
+  "author": {
+   "handle": "SamgreyAi",
+   "name": "Sam"
+  },
+  "postUrl": "https://x.com/SamgreyAi/status/2119907104597102987",
+  "createdAt": "2026-11-09T21:36:54.000Z",
+  "durationMs": 15125,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119907104597102987/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119907104597102987/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119907104597102987"
+ },
+ {
+  "id": "2119912921493127244",
+  "title": "Fire-rescue island game built in single HTML file",
+  "title_zh": "单HTML文件生成的消防救援岛屿游戏",
+  "category": "game",
+  "author": {
+   "handle": "wikiwayne",
+   "name": "Wayne Lowry"
+  },
+  "postUrl": "https://x.com/wikiwayne/status/2119912921493127244",
+  "createdAt": "2026-11-09T22:00:01.000Z",
+  "durationMs": 56300,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119912921493127244/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119912921493127244/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119912921493127244"
+ },
+ {
+  "id": "2120183268800913674",
+  "title": "Schwerer Gustav scene compared across four models",
+  "title_zh": "四款模型生成的古斯塔夫重炮场景对比",
+  "category": "comparison",
+  "author": {
+   "handle": "VulKan42069",
+   "name": "VulKan"
+  },
+  "postUrl": "https://x.com/VulKan42069/status/2120183268800913674",
+  "createdAt": "2026-11-10T15:54:17.000Z",
+  "durationMs": 59450,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120183268800913674/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120183268800913674/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120183268800913674"
+ },
+ {
+  "id": "2120202184302449021",
+  "title": "Comparing 3D missile generations across four AI workflows",
+  "title_zh": "四种AI工作流生成3D导弹场景对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Ai_Raptor_Ai",
+   "name": "Raptor"
+  },
+  "postUrl": "https://x.com/Ai_Raptor_Ai/status/2120202184302449021",
+  "createdAt": "2026-11-10T17:09:26.000Z",
+  "durationMs": 8000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120202184302449021/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120202184302449021/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120202184302449021"
+ },
+ {
+  "id": "2120242376769736971",
+  "title": "Fire truck at burning building across four models",
+  "title_zh": "四款AI生成着火建筑前的消防车对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Ai_Raptor_Ai",
+   "name": "Raptor"
+  },
+  "postUrl": "https://x.com/Ai_Raptor_Ai/status/2120242376769736971",
+  "createdAt": "2026-11-10T19:49:09.000Z",
+  "durationMs": 8000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120242376769736971/video.mp4",
+  "promptShared": true,
+  "promptText": "Holy f*cking sh*t \n\nGave 4 AIs the exact same prompt: “a fire truck at a burning building, night, sirens on” 🚒🔥\n\nThe results:\n\n Opus 5.5, $41\nWet asphalt reflections, flashing sirens, smoke you can almost smell. Looks like a movie still.\n Fable 5.5, $36\nNearly as good, and it was the only one that added firefighters spraying water. Nobody asked it to.\n\n Kimi K3.1, $112\nLow-poly truck, cartoon fire. The most expensive one looks like a mobile game ad.\n GPT-6 Astra, $9\nBuilt the whole thing out of blocks. Cheapest, fastest, and somehow it remembered a fire hydrant.\n\nThe price gap between best and worst: 2.7x. In the wrong direction.\nWhich one would you actually use? \n\nThe most expensive one lost 💀",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120242376769736971/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120242376769736971"
  }
 ]
