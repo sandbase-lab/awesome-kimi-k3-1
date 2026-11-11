@@ -743,7 +743,7 @@
   "durationMs": 23800,
   "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113611006039761281/video.mp4",
   "promptShared": false,
-  "featured": 0,
+  "featured": 1,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113611006039761281/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2113611006039761281"
  },
@@ -4733,24 +4733,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2116429103645806643"
  },
  {
-  "id": "2116476226894270738",
-  "title": "Comparison of bullet train scenes across AI models",
-  "title_zh": "多模型生成子弹头列车场景对比",
-  "category": "comparison",
-  "author": {
-   "handle": "Lummox_eth",
-   "name": "Lummox"
-  },
-  "postUrl": "https://x.com/Lummox_eth/status/2116476226894270738",
-  "createdAt": "2026-10-31T10:23:49.000Z",
-  "durationMs": 25000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2116476226894270738/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2116476226894270738/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2116476226894270738"
- },
- {
   "id": "2116485953225400363",
   "title": "Interactive 3D space generated from single image",
   "title_zh": "基于单张图片生成的交互式3D空间",
@@ -5489,7 +5471,7 @@
   "durationMs": 36066,
   "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118784042883502240/video.mp4",
   "promptShared": false,
-  "featured": 1,
+  "featured": 0,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2118784042883502240/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2118784042883502240"
  },
@@ -5891,24 +5873,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119797967762989315"
  },
  {
-  "id": "2119851419423392237",
-  "title": "Arctic icebreaker 3D scenes across four AI workflows",
-  "title_zh": "四种AI工作流生成的北极破冰船3D场景对比",
-  "category": "comparison",
-  "author": {
-   "handle": "Marlenuii",
-   "name": "Marlen"
-  },
-  "postUrl": "https://x.com/Marlenuii/status/2119851419423392237",
-  "createdAt": "2026-11-09T17:55:37.000Z",
-  "durationMs": 15041,
-  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119851419423392237/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119851419423392237/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119851419423392237"
- },
- {
   "id": "2119889349537861972",
   "title": "Off-road buggy 3D models across AI workflows",
   "title_zh": "不同AI工作流生成的越野车3D模型对比",
@@ -5999,6 +5963,42 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120202184302449021"
  },
  {
+  "id": "2120212631025795397",
+  "title": "Comparing lighthouse ocean scenes across four AI tools",
+  "title_zh": "四种AI工具生成灯塔海洋场景对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Marlenuii",
+   "name": "Marlen"
+  },
+  "postUrl": "https://x.com/Marlenuii/status/2120212631025795397",
+  "createdAt": "2026-11-10T17:50:57.000Z",
+  "durationMs": 15041,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120212631025795397/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120212631025795397/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120212631025795397"
+ },
+ {
+  "id": "2120222728707776595",
+  "title": "Comparing winter steam train scenes across four models",
+  "title_zh": "四种AI模型生成冬季蒸汽火车场景对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Lummox_eth",
+   "name": "Lummox"
+  },
+  "postUrl": "https://x.com/Lummox_eth/status/2120222728707776595",
+  "createdAt": "2026-11-10T18:31:05.000Z",
+  "durationMs": 10000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120222728707776595/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120222728707776595/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120222728707776595"
+ },
+ {
   "id": "2120242376769736971",
   "title": "Fire truck at burning building across four models",
   "title_zh": "四款AI生成着火建筑前的消防车对比",
@@ -6016,5 +6016,149 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120242376769736971/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120242376769736971"
+ },
+ {
+  "id": "2120309367752839413",
+  "title": "Japanese shrine generation in Blender MCP versus Astra",
+  "title_zh": "Blender MCP与Astra生成日本神社对比",
+  "category": "comparison",
+  "author": {
+   "handle": "0xmurasame",
+   "name": "Murasame"
+  },
+  "postUrl": "https://x.com/0xmurasame/status/2120309367752839413",
+  "createdAt": "2026-11-11T00:15:21.000Z",
+  "durationMs": 15096,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120309367752839413/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120309367752839413/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120309367752839413"
+ },
+ {
+  "id": "2120451857135104192",
+  "title": "Neon Coast Unity driving demo using Kimi",
+  "title_zh": "Kimi制作的Neon Coast驾驶演示",
+  "category": "game",
+  "author": {
+   "handle": "CanopyWave_AI",
+   "name": "Canopy Wave"
+  },
+  "postUrl": "https://x.com/CanopyWave_AI/status/2120451857135104192",
+  "createdAt": "2026-11-11T09:41:33.000Z",
+  "durationMs": 49342,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120451857135104192/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120451857135104192/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120451857135104192"
+ },
+ {
+  "id": "2120486663205851500",
+  "title": "Arctic submarine scene comparison across AI workflows",
+  "title_zh": "多款AI工作流生成北极潜艇场景对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Promixyz",
+   "name": "Promix"
+  },
+  "postUrl": "https://x.com/Promixyz/status/2120486663205851500",
+  "createdAt": "2026-11-11T11:59:51.000Z",
+  "durationMs": 10041,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120486663205851500/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120486663205851500/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120486663205851500"
+ },
+ {
+  "id": "2120547827054940497",
+  "title": "DeepSeek V4.1 Flash Rio scene generation comparison",
+  "title_zh": "DeepSeek V4.1 Flash生成里约场景对比",
+  "category": "comparison",
+  "author": {
+   "handle": "semichenkko",
+   "name": "Semichenko"
+  },
+  "postUrl": "https://x.com/semichenkko/status/2120547827054940497",
+  "createdAt": "2026-11-11T16:02:54.000Z",
+  "durationMs": 12000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120547827054940497/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120547827054940497/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120547827054940497"
+ },
+ {
+  "id": "2120562198481138173",
+  "title": "Three models generating stroke by stroke paintings",
+  "title_zh": "三款模型逐笔将照片转为绘画对比",
+  "category": "comparison",
+  "author": {
+   "handle": "wikiwayne",
+   "name": "Wayne Lowry"
+  },
+  "postUrl": "https://x.com/wikiwayne/status/2120562198481138173",
+  "createdAt": "2026-11-11T17:00:00.000Z",
+  "durationMs": 73566,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120562198481138173/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120562198481138173/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120562198481138173"
+ },
+ {
+  "id": "2120567614577746344",
+  "title": "Dragon generation comparison across four AI models",
+  "title_zh": "四种AI模型生成龙的效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Beliy_95",
+   "name": "Beliy"
+  },
+  "postUrl": "https://x.com/Beliy_95/status/2120567614577746344",
+  "createdAt": "2026-11-11T17:21:32.000Z",
+  "durationMs": 9283,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120567614577746344/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120567614577746344/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120567614577746344"
+ },
+ {
+  "id": "2120582955710238799",
+  "title": "Four-part harmony synthesized with Kimi K3.1 Pro",
+  "title_zh": "Kimi K3.1 Pro合成四声部圣母颂",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "ajhinh",
+   "name": "Andrew Hinh"
+  },
+  "postUrl": "https://x.com/ajhinh/status/2120582955710238799",
+  "createdAt": "2026-11-11T18:22:29.000Z",
+  "durationMs": 97366,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120582955710238799/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120582955710238799/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120582955710238799"
+ },
+ {
+  "id": "2120596778479493254",
+  "title": "Cost and performance comparison of Kimi and Opus",
+  "title_zh": "Kimi与Opus实际任务成本对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Arindam_1729",
+   "name": "Arindam Majumder 𝕏"
+  },
+  "postUrl": "https://x.com/Arindam_1729/status/2120596778479493254",
+  "createdAt": "2026-11-11T19:17:25.000Z",
+  "durationMs": 75500,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120596778479493254/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120596778479493254/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120596778479493254"
  }
 ]
