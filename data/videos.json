@@ -5891,24 +5891,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119889349537861972"
  },
  {
-  "id": "2119907104597102987",
-  "title": "Comparing 3D scene generation across four AI workflows",
-  "title_zh": "四种AI工作流生成3D场景对比测试",
-  "category": "comparison",
-  "author": {
-   "handle": "SamgreyAi",
-   "name": "Sam"
-  },
-  "postUrl": "https://x.com/SamgreyAi/status/2119907104597102987",
-  "createdAt": "2026-11-09T21:36:54.000Z",
-  "durationMs": 15125,
-  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119907104597102987/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119907104597102987/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119907104597102987"
- },
- {
   "id": "2119912921493127244",
   "title": "Fire-rescue island game built in single HTML file",
   "title_zh": "单HTML文件生成的消防救援岛屿游戏",
@@ -6324,24 +6306,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120993038407282944"
  },
  {
-  "id": "2121006987299414069",
-  "title": "Fantasy dragon generation comparison across four AI models",
-  "title_zh": "四款AI模型生成奇幻巨龙场景对比",
-  "category": "comparison",
-  "author": {
-   "handle": "0xmurasame",
-   "name": "Murasame"
-  },
-  "postUrl": "https://x.com/0xmurasame/status/2121006987299414069",
-  "createdAt": "2026-11-12T22:27:26.000Z",
-  "durationMs": 10071,
-  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2121006987299414069/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2121006987299414069/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2121006987299414069"
- },
- {
   "id": "2121295789599170965",
   "title": "Burning castle scene generation across four AI models",
   "title_zh": "四款AI模型生成燃烧城堡场景对比",
@@ -6358,5 +6322,116 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2121295789599170965/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2121295789599170965"
+ },
+ {
+  "id": "2121330807042138146",
+  "title": "Steam locomotive plowing snow model comparison",
+  "title_zh": "蒸汽机车破雪前行模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "0xKenny1st",
+   "name": "Kenny1st"
+  },
+  "postUrl": "https://x.com/0xKenny1st/status/2121330807042138146",
+  "createdAt": "2026-11-13T19:54:11.000Z",
+  "durationMs": 10007,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2121330807042138146/video.mp4",
+  "promptShared": true,
+  "promptText": "Claude Fable 5.2 vs Claude Opus 5.5 vs Kimi K3.1 vs GPT-6 Astra\n\nSame prompt: a steam locomotive plowing through snow.\n\nFable 5.2: $6, 2 min\nOpus 5.5: $24, 7 min\nKimi K3.1: $58, 16 min\nGPT-6 Astra: $93, 23 min\n\nAstra cost over 15x more than Fable and took more than 11x longer.\n\nTop left: Opus 5.5. Top right: Fable 5.2. Bottom left: Kimi K3.1. Bottom right: GPT-6 Astra.\n\nIs the most expensive model ever the best one?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2121330807042138146/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2121330807042138146"
+ },
+ {
+  "id": "2121637660574003289",
+  "title": "Oracle bone script animation of Quiet Night Thought",
+  "title_zh": "静夜思甲骨文动态文字动画",
+  "category": "kinetic-type",
+  "author": {
+   "handle": "Pixelxzen",
+   "name": "紫苏子ACG"
+  },
+  "postUrl": "https://x.com/Pixelxzen/status/2121637660574003289",
+  "createdAt": "2026-11-14T16:13:31.000Z",
+  "durationMs": 36000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2121637660574003289/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2121637660574003289/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2121637660574003289"
+ },
+ {
+  "id": "2121642924991558122",
+  "title": "Self-decorating Christmas tree model comparison",
+  "title_zh": "自动装饰圣诞树效果模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "ivanfioravanti",
+   "name": "Ivan Fioravanti"
+  },
+  "postUrl": "https://x.com/ivanfioravanti/status/2121642924991558122",
+  "createdAt": "2026-11-14T16:34:26.000Z",
+  "durationMs": 20000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2121642924991558122/video.mp4",
+  "promptShared": true,
+  "promptText": "Round two (Open models here): same prompt, three more models. \"A Christmas tree that decorates itself\" \n\nEach one built everything in code with a single agent in its own Herdr pane.\n\nDeepSeek V4.1 Flash ⏱ 1 hr 44 min 💰 $0 (DGX @christopherowen recipe)\nKimi K3.1 Pro ⏱ 1 hr 56 min ☁️ Kimi Code (API)\nGLM 5.3 Flash ⏱ 2 hr 26 min 💰 $0 (DGX new @MiaAI_lab  recipe)\n\nNotes:\n- DeepSeek and GLM ran through omp. Kimi ran through Kimi Code on the Highspeed tier.\n- All three have sound.\n- Builder tokens: DeepSeek 37.7M, Kimi 35.3M, GLM 24.5M.\n- DeepSeek had the two Mac Studios to itself. Kimi and GLM shared them with other builds, so don't compare the times too closely.\n\nQwen3.8 Flash Next is still building (taking forever...)\n\nWhich one do you prefer? DS4.1 did a great job but the star on top 🤔",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2121642924991558122/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2121642924991558122"
+ },
+ {
+  "id": "2121675684271849565",
+  "title": "Wildfire rescue mission model comparison",
+  "title_zh": "山火救援任务模型效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "0xmurasame",
+   "name": "Murasame"
+  },
+  "postUrl": "https://x.com/0xmurasame/status/2121675684271849565",
+  "createdAt": "2026-11-14T18:44:36.000Z",
+  "durationMs": 10048,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2121675684271849565/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2121675684271849565/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2121675684271849565"
+ },
+ {
+  "id": "2121720162244055355",
+  "title": "Orange dump truck on autumn mountain road comparison",
+  "title_zh": "秋季山路橙色自卸卡车模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "SamgreyAi",
+   "name": "Sam"
+  },
+  "postUrl": "https://x.com/SamgreyAi/status/2121720162244055355",
+  "createdAt": "2026-11-14T21:41:20.000Z",
+  "durationMs": 8000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2121720162244055355/video.mp4",
+  "promptShared": true,
+  "promptText": "Same model. Same prompt. A $2 dump truck that looks real and a $12 one that looks like a children’s book🚛\n\nI asked 4 AI workflows for the exact same scene: an orange dump truck on a mountain road in autumn.\n\nThe dump truck disaster report\n\nFable 5.2 → $2 / 2 min\nOpus 5.5 → $5 / 7 min\nKimi K3.1 → $8 / 15 min\nGPT-6 Astra → $12 / 22 min\nFable’s cost was 6x lower and its time was 11x shorter than Astra’s.\nAnd somehow the $2 version has the dust clouds, a truck full of gravel and mountains that look like a photo.\nOpus 5.5 is close behind, and it looks great too.\n\nThen there’s Kimi K3.1, which turned a mountain road into low-poly Minecraft terrain\n\nAnd GPT-6 Astra spent $12 and 22 minutes on a cartoon from a children’s book \n\nImagine paying 6x more and waiting 11x longer to get a worse truck\n\nWhich truck would you pick?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2121720162244055355/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2121720162244055355"
+ },
+ {
+  "id": "2121761570933940735",
+  "title": "Forest fire rescue model comparison",
+  "title_zh": "森林消防灭火多模型效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "0xorlau",
+   "name": "orlau"
+  },
+  "postUrl": "https://x.com/0xorlau/status/2121761570933940735",
+  "createdAt": "2026-11-15T00:25:53.000Z",
+  "durationMs": 10048,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2121761570933940735/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2121761570933940735/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2121761570933940735"
  }
 ]

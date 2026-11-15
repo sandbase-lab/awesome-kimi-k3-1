@@ -2,7 +2,7 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 60 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
+共 63 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
@@ -10,7 +10,7 @@
 - [动效](#motion-graphics) (6)
 - [游戏](#game) (2)
 - [讲解](#explainer) (2)
-- [测试对比](#comparison) (38)
+- [测试对比](#comparison) (41)
 
 <a id="3d-scene"></a>
 
@@ -1048,4 +1048,77 @@ The price gap between best and worst: 2.7x. In the wrong direction.
 Which one would you actually use? 
 
 The most expensive one lost 💀
+```
+
+### 蒸汽机车破雪前行模型对比
+
+[@0xKenny1st](https://x.com/0xKenny1st/status/2121330807042138146) · 0:10 · [观看](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2121330807042138146/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2121330807042138146?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+Claude Fable 5.2 vs Claude Opus 5.5 vs Kimi K3.1 vs GPT-6 Astra
+
+Same prompt: a steam locomotive plowing through snow.
+
+Fable 5.2: $6, 2 min
+Opus 5.5: $24, 7 min
+Kimi K3.1: $58, 16 min
+GPT-6 Astra: $93, 23 min
+
+Astra cost over 15x more than Fable and took more than 11x longer.
+
+Top left: Opus 5.5. Top right: Fable 5.2. Bottom left: Kimi K3.1. Bottom right: GPT-6 Astra.
+
+Is the most expensive model ever the best one?
+```
+
+### 自动装饰圣诞树效果模型对比
+
+[@ivanfioravanti](https://x.com/ivanfioravanti/status/2121642924991558122) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2121642924991558122/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2121642924991558122?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+Round two (Open models here): same prompt, three more models. "A Christmas tree that decorates itself" 
+
+Each one built everything in code with a single agent in its own Herdr pane.
+
+DeepSeek V4.1 Flash ⏱ 1 hr 44 min 💰 $0 (DGX @christopherowen recipe)
+Kimi K3.1 Pro ⏱ 1 hr 56 min ☁️ Kimi Code (API)
+GLM 5.3 Flash ⏱ 2 hr 26 min 💰 $0 (DGX new @MiaAI_lab  recipe)
+
+Notes:
+- DeepSeek and GLM ran through omp. Kimi ran through Kimi Code on the Highspeed tier.
+- All three have sound.
+- Builder tokens: DeepSeek 37.7M, Kimi 35.3M, GLM 24.5M.
+- DeepSeek had the two Mac Studios to itself. Kimi and GLM shared them with other builds, so don't compare the times too closely.
+
+Qwen3.8 Flash Next is still building (taking forever...)
+
+Which one do you prefer? DS4.1 did a great job but the star on top 🤔
+```
+
+### 秋季山路橙色自卸卡车模型对比
+
+[@SamgreyAi](https://x.com/SamgreyAi/status/2121720162244055355) · 0:08 · [观看](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2121720162244055355/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2121720162244055355?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+Same model. Same prompt. A $2 dump truck that looks real and a $12 one that looks like a children’s book🚛
+
+I asked 4 AI workflows for the exact same scene: an orange dump truck on a mountain road in autumn.
+
+The dump truck disaster report
+
+Fable 5.2 → $2 / 2 min
+Opus 5.5 → $5 / 7 min
+Kimi K3.1 → $8 / 15 min
+GPT-6 Astra → $12 / 22 min
+Fable’s cost was 6x lower and its time was 11x shorter than Astra’s.
+And somehow the $2 version has the dust clouds, a truck full of gravel and mountains that look like a photo.
+Opus 5.5 is close behind, and it looks great too.
+
+Then there’s Kimi K3.1, which turned a mountain road into low-poly Minecraft terrain
+
+And GPT-6 Astra spent $12 and 22 minutes on a cartoon from a children’s book 
+
+Imagine paying 6x more and waiting 11x longer to get a worse truck
+
+Which truck would you pick?
 ```
