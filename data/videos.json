@@ -6433,5 +6433,41 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2121761570933940735/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2121761570933940735"
+ },
+ {
+  "id": "2121864951887167993",
+  "title": "Building an e-bike landing page with AI",
+  "title_zh": "使用AI构建电动自行车品牌落地页",
+  "category": "ui-demo",
+  "author": {
+   "handle": "hqmank",
+   "name": "Kai"
+  },
+  "postUrl": "https://x.com/hqmank/status/2121864951887167993",
+  "createdAt": "2026-11-15T07:16:41.000Z",
+  "durationMs": 32900,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2121864951887167993/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2121864951887167993/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2121864951887167993"
+ },
+ {
+  "id": "2122029835849523504",
+  "title": "Three.js forest lighting comparison across models",
+  "title_zh": "多模型Three.js森林场景光照对比",
+  "category": "comparison",
+  "author": {
+   "handle": "superalesha",
+   "name": "Alexey Fateev"
+  },
+  "postUrl": "https://x.com/superalesha/status/2122029835849523504",
+  "createdAt": "2026-11-15T18:11:52.000Z",
+  "durationMs": 90000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122029835849523504/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122029835849523504/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2122029835849523504"
  }
 ]
