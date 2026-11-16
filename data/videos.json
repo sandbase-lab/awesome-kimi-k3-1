@@ -5873,24 +5873,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119797967762989315"
  },
  {
-  "id": "2119889349537861972",
-  "title": "Off-road buggy 3D models across AI workflows",
-  "title_zh": "不同AI工作流生成的越野车3D模型对比",
-  "category": "comparison",
-  "author": {
-   "handle": "0xmurasame",
-   "name": "Murasame"
-  },
-  "postUrl": "https://x.com/0xmurasame/status/2119889349537861972",
-  "createdAt": "2026-11-09T20:26:21.000Z",
-  "durationMs": 15041,
-  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119889349537861972/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119889349537861972/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119889349537861972"
- },
- {
   "id": "2119912921493127244",
   "title": "Fire-rescue island game built in single HTML file",
   "title_zh": "单HTML文件生成的消防救援岛屿游戏",
@@ -6469,5 +6451,131 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122029835849523504/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2122029835849523504"
+ },
+ {
+  "id": "2122091376011854236",
+  "title": "A cinematic icebreaker ship in Arctic waters",
+  "title_zh": "北极海域破冰船的电影感画面",
+  "category": "comparison",
+  "author": {
+   "handle": "0xmurasame",
+   "name": "Murasame"
+  },
+  "postUrl": "https://x.com/0xmurasame/status/2122091376011854236",
+  "createdAt": "2026-11-15T22:16:25.000Z",
+  "durationMs": 10007,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122091376011854236/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122091376011854236/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2122091376011854236"
+ },
+ {
+  "id": "2122152569564983357",
+  "title": "AI models comparing office interview failure stories",
+  "title_zh": "AI模型对比职场面试失败案例",
+  "category": "explainer",
+  "author": {
+   "handle": "oliverjohansson",
+   "name": "Oliver Johansson"
+  },
+  "postUrl": "https://x.com/oliverjohansson/status/2122152569564983357",
+  "createdAt": "2026-11-16T02:19:34.000Z",
+  "durationMs": 33016,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122152569564983357/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122152569564983357/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2122152569564983357"
+ },
+ {
+  "id": "2122173567563608166",
+  "title": "Interactive UI design options for chat panel",
+  "title_zh": "聊天面板的交互式界面设计方案",
+  "category": "ui-demo",
+  "author": {
+   "handle": "realWeZZard",
+   "name": "WeZZard"
+  },
+  "postUrl": "https://x.com/realWeZZard/status/2122173567563608166",
+  "createdAt": "2026-11-16T03:43:01.000Z",
+  "durationMs": 86338,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122173567563608166/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122173567563608166/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2122173567563608166"
+ },
+ {
+  "id": "2122284797301084386",
+  "title": "A fighter jet in golden hour clouds",
+  "title_zh": "金色云层中飞行的喷气式战斗机",
+  "category": "3d-scene",
+  "author": {
+   "handle": "superalesha",
+   "name": "Alexey Fateev"
+  },
+  "postUrl": "https://x.com/superalesha/status/2122284797301084386",
+  "createdAt": "2026-11-16T11:05:00.000Z",
+  "durationMs": 60000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122284797301084386/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122284797301084386/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2122284797301084386"
+ },
+ {
+  "id": "2122317512805171550",
+  "title": "A block built fishing village day cycle",
+  "title_zh": "积木风格渔村的昼夜循环演示",
+  "category": "3d-scene",
+  "author": {
+   "handle": "superalesha",
+   "name": "Alexey Fateev"
+  },
+  "postUrl": "https://x.com/superalesha/status/2122317512805171550",
+  "createdAt": "2026-11-16T13:15:00.000Z",
+  "durationMs": 60000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122317512805171550/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122317512805171550/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2122317512805171550"
+ },
+ {
+  "id": "2122348915697889396",
+  "title": "Animated dogs created in Blender by AI",
+  "title_zh": "AI在Blender中生成的动画小狗",
+  "category": "comparison",
+  "author": {
+   "handle": "Ai_Raptor_Ai",
+   "name": "Raptor"
+  },
+  "postUrl": "https://x.com/Ai_Raptor_Ai/status/2122348915697889396",
+  "createdAt": "2026-11-16T15:19:47.000Z",
+  "durationMs": 8000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122348915697889396/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122348915697889396/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2122348915697889396"
+ },
+ {
+  "id": "2122360573706830311",
+  "title": "Animated dragons created in Blender by AI",
+  "title_zh": "AI在Blender中生成的动画巨龙",
+  "category": "comparison",
+  "author": {
+   "handle": "BlackCopeMax",
+   "name": "Ron"
+  },
+  "postUrl": "https://x.com/BlackCopeMax/status/2122360573706830311",
+  "createdAt": "2026-11-16T16:06:06.000Z",
+  "durationMs": 16000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122360573706830311/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122360573706830311/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2122360573706830311"
  }
 ]
