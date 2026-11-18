@@ -5964,24 +5964,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120242376769736971"
  },
  {
-  "id": "2120309367752839413",
-  "title": "Japanese shrine generation in Blender MCP versus Astra",
-  "title_zh": "Blender MCP与Astra生成日本神社对比",
-  "category": "comparison",
-  "author": {
-   "handle": "0xmurasame",
-   "name": "Murasame"
-  },
-  "postUrl": "https://x.com/0xmurasame/status/2120309367752839413",
-  "createdAt": "2026-11-11T00:15:21.000Z",
-  "durationMs": 15096,
-  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120309367752839413/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120309367752839413/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120309367752839413"
- },
- {
   "id": "2120451857135104192",
   "title": "Neon Coast Unity driving demo using Kimi",
   "title_zh": "Kimi制作的Neon Coast驾驶演示",
@@ -6435,24 +6417,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2121864951887167993"
  },
  {
-  "id": "2122029835849523504",
-  "title": "Three.js forest lighting comparison across models",
-  "title_zh": "多模型Three.js森林场景光照对比",
-  "category": "comparison",
-  "author": {
-   "handle": "superalesha",
-   "name": "Alexey Fateev"
-  },
-  "postUrl": "https://x.com/superalesha/status/2122029835849523504",
-  "createdAt": "2026-11-15T18:11:52.000Z",
-  "durationMs": 90000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122029835849523504/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122029835849523504/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2122029835849523504"
- },
- {
   "id": "2122091376011854236",
   "title": "A cinematic icebreaker ship in Arctic waters",
   "title_zh": "北极海域破冰船的电影感画面",
@@ -6577,5 +6541,95 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122360573706830311/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2122360573706830311"
+ },
+ {
+  "id": "2122407102303940891",
+  "title": "Glass vase with interactive light and refraction",
+  "title_zh": "带有交互式光影与折射的玻璃花瓶",
+  "category": "3d-scene",
+  "author": {
+   "handle": "superalesha",
+   "name": "Alexey Fateev"
+  },
+  "postUrl": "https://x.com/superalesha/status/2122407102303940891",
+  "createdAt": "2026-11-16T19:11:00.000Z",
+  "durationMs": 60000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122407102303940891/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122407102303940891/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2122407102303940891"
+ },
+ {
+  "id": "2122461190232432864",
+  "title": "Off-road rally challenge comparison across four models",
+  "title_zh": "四款模型越野拉力赛场景生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "0xmurasame",
+   "name": "Murasame"
+  },
+  "postUrl": "https://x.com/0xmurasame/status/2122461190232432864",
+  "createdAt": "2026-11-16T22:45:55.000Z",
+  "durationMs": 10125,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122461190232432864/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122461190232432864/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2122461190232432864"
+ },
+ {
+  "id": "2122791932489253313",
+  "title": "GameFeel benchmark test of Kimi K3.1",
+  "title_zh": "GameFeel基准测试Kimi K3.1游戏表现",
+  "category": "game",
+  "author": {
+   "handle": "AdamHoltererer",
+   "name": "Adam Holter"
+  },
+  "postUrl": "https://x.com/AdamHoltererer/status/2122791932489253313",
+  "createdAt": "2026-11-17T20:40:10.000Z",
+  "durationMs": 13033,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122791932489253313/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2122791932489253313/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2122791932489253313"
+ },
+ {
+  "id": "2122809178963980761",
+  "title": "Automated factory simulation comparison across models",
+  "title_zh": "多模型自动化工厂仿真模拟对比",
+  "category": "comparison",
+  "author": {
+   "handle": "AlicanKiraz0",
+   "name": "Alican Kiraz"
+  },
+  "postUrl": "https://x.com/AlicanKiraz0/status/2122809178963980761",
+  "createdAt": "2026-11-17T21:48:42.000Z",
+  "durationMs": 66000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122809178963980761/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122809178963980761/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2122809178963980761"
+ },
+ {
+  "id": "2123129648284573941",
+  "title": "Analyzing 42 YouTube video transcripts in one prompt",
+  "title_zh": "单次提示词分析42个视频访谈全文",
+  "category": "ui-demo",
+  "author": {
+   "handle": "Arindam_1729",
+   "name": "Arindam Majumder 𝕏"
+  },
+  "postUrl": "https://x.com/Arindam_1729/status/2123129648284573941",
+  "createdAt": "2026-11-18T19:02:08.000Z",
+  "durationMs": 26005,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2123129648284573941/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2123129648284573941/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2123129648284573941"
  }
 ]
