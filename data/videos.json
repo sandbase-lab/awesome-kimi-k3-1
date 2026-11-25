@@ -944,7 +944,7 @@
   "durationMs": 30000,
   "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113683399680700591/video.mp4",
   "promptShared": false,
-  "featured": 7,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113683399680700591/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2113683399680700591"
  },
@@ -5494,24 +5494,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119027995239194880"
  },
  {
-  "id": "2119039256446292003",
-  "title": "Comparing four AI workflows generating a desert buggy",
-  "title_zh": "对比四种生成越野车的AI工作流",
-  "category": "comparison",
-  "author": {
-   "handle": "Marlenuii",
-   "name": "Marlen"
-  },
-  "postUrl": "https://x.com/Marlenuii/status/2119039256446292003",
-  "createdAt": "2026-11-07T12:08:23.000Z",
-  "durationMs": 15041,
-  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119039256446292003/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2119039256446292003/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2119039256446292003"
- },
- {
   "id": "2119099723588001901",
   "title": "3D brain scan visualization generated with Kimi K3.1 Pro",
   "title_zh": "使用Kimi K3.1 Pro生成的3D脑扫描可视化",
@@ -6090,24 +6072,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120596778479493254"
  },
  {
-  "id": "2120672586975625286",
-  "title": "Winter railway steam locomotive generation across four AI models",
-  "title_zh": "四种AI模型生成冬季铁路蒸汽机车对比",
-  "category": "comparison",
-  "author": {
-   "handle": "0xmurasame",
-   "name": "Murasame"
-  },
-  "postUrl": "https://x.com/0xmurasame/status/2120672586975625286",
-  "createdAt": "2026-11-12T00:18:39.000Z",
-  "durationMs": 10044,
-  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120672586975625286/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2120672586975625286/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2120672586975625286"
- },
- {
   "id": "2120712048300744720",
   "title": "3D recreation of the historic Hōryū-ji Temple complex",
   "title_zh": "法隆寺历史建筑群的3D重建",
@@ -6625,11 +6589,591 @@
   },
   "postUrl": "https://x.com/Arindam_1729/status/2123129648284573941",
   "createdAt": "2026-11-18T19:02:08.000Z",
-  "durationMs": 26005,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2123129648284573941/video.mp4",
   "promptShared": false,
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2123129648284573941/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2123129648284573941"
+ },
+ {
+  "id": "2123388701153902867",
+  "title": "Live dashboard of users hitting free model endpoints",
+  "title_zh": "免费模型端点访问情况的实时仪表盘",
+  "category": "ui-demo",
+  "author": {
+   "handle": "Numes_ai",
+   "name": "Numes"
+  },
+  "postUrl": "https://x.com/Numes_ai/status/2123388701153902867",
+  "createdAt": "2026-11-19T12:11:31.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2123388701153902867/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2123388701153902867/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2123388701153902867"
+ },
+ {
+  "id": "2124256574470324564",
+  "title": "A procedural 3D synthwave racing game",
+  "title_zh": "一款程序化生成的合成波3D赛车游戏",
+  "category": "game",
+  "author": {
+   "handle": "JimmyOgb12",
+   "name": "Jimmy😔"
+  },
+  "postUrl": "https://x.com/JimmyOgb12/status/2124256574470324564",
+  "createdAt": "2026-11-21T21:40:08.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124256574470324564/video.mp4",
+  "promptShared": true,
+  "promptText": "So I built a 3D Game 🎮 \nNeon Cyber-Drift: 100% procedural 3D synthwave racer one-shotted with OpenClaw + Kimi K3.1 Pro  @cerebras. \nPure Three.js & Web Audio, 0 assets.\n\nPlay: https://neon-cyber-drift.vercel.app\nCode: https://github.com/JimmyOgb/Kimi-k3.1_Pro\n\n @Kimi_Moonshot #KimiOnCerebras",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124256574470324564/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124256574470324564"
+ },
+ {
+  "id": "2124310709320241207",
+  "title": "Streaming animated 3D scenes while typing stories",
+  "title_zh": "打字时实时流式生成三维动画场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "techfren",
+   "name": "Tech Friend AJ"
+  },
+  "postUrl": "https://x.com/techfren/status/2124310709320241207",
+  "createdAt": "2026-11-22T01:15:15.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124310709320241207/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124310709320241207/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124310709320241207"
+ },
+ {
+  "id": "2124335316676833489",
+  "title": "Latency benchmark between two code generation models",
+  "title_zh": "两款代码生成模型的推理延迟基准对比",
+  "category": "comparison",
+  "author": {
+   "handle": "JE4NVRG",
+   "name": "Jean Vargas"
+  },
+  "postUrl": "https://x.com/JE4NVRG/status/2124335316676833489",
+  "createdAt": "2026-11-22T02:53:02.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124335316676833489/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124335316676833489/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124335316676833489"
+ },
+ {
+  "id": "2124376646212096144",
+  "title": "Gamified educational video game with AI NPCs",
+  "title_zh": "具有AI NPC的游戏化教育视频游戏",
+  "category": "game",
+  "author": {
+   "handle": "dobbjs",
+   "name": "jesse"
+  },
+  "postUrl": "https://x.com/dobbjs/status/2124376646212096144",
+  "createdAt": "2026-11-22T05:37:16.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124376646212096144/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124376646212096144/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124376646212096144"
+ },
+ {
+  "id": "2124402751908303016",
+  "title": "Racing AI models on Wikipedia game",
+  "title_zh": "在维基百科游戏中进行的AI模型竞速",
+  "category": "comparison",
+  "author": {
+   "handle": "rishabhbansal97",
+   "name": "Rishabh Bansal"
+  },
+  "postUrl": "https://x.com/rishabhbansal97/status/2124402751908303016",
+  "createdAt": "2026-11-22T07:21:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124402751908303016/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124402751908303016/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124402751908303016"
+ },
+ {
+  "id": "2124440422848385508",
+  "title": "Interactive story steering interface without chat boxes",
+  "title_zh": "无对话框的交互式故事引导界面",
+  "category": "ui-demo",
+  "author": {
+   "handle": "1LifeInMotion",
+   "name": "Graeme Provan"
+  },
+  "postUrl": "https://x.com/1LifeInMotion/status/2124440422848385508",
+  "createdAt": "2026-11-22T09:50:41.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124440422848385508/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124440422848385508/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124440422848385508"
+ },
+ {
+  "id": "2124465469461540903",
+  "title": "Comparing fighter jet video generation performance",
+  "title_zh": "战斗机视频生成性能对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Marlenuii",
+   "name": "Marlen"
+  },
+  "postUrl": "https://x.com/Marlenuii/status/2124465469461540903",
+  "createdAt": "2026-11-22T11:30:13.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124465469461540903/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124465469461540903/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124465469461540903"
+ },
+ {
+  "id": "2124480635633053710",
+  "title": "Live Shopify catalog search for gift ideas",
+  "title_zh": "在 Shopify 上实时检索圣诞礼物建议",
+  "category": "ui-demo",
+  "author": {
+   "handle": "eightman999",
+   "name": "eightman"
+  },
+  "postUrl": "https://x.com/eightman999/status/2124480635633053710",
+  "createdAt": "2026-11-22T12:30:29.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124480635633053710/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124480635633053710/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124480635633053710"
+ },
+ {
+  "id": "2124487571720085536",
+  "title": "Agent finding Secret Santa gifts in real time",
+  "title_zh": "快速挑选圣诞礼物的智能体演示",
+  "category": "ui-demo",
+  "author": {
+   "handle": "iaencorto",
+   "name": "Carlos Lara"
+  },
+  "postUrl": "https://x.com/iaencorto/status/2124487571720085536",
+  "createdAt": "2026-11-22T12:58:02.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124487571720085536/video.mp4",
+  "promptShared": true,
+  "promptText": "This is Kai. Kai forgot the Secret Santa gift.\n\nOne OpenClaw agent, Kimi K3.1 Pro on @Cerebras at up to 1,126 tokens/s: five real, in-stock gifts in 16.6 s. Same model elsewhere: 43 s.\n\nWrite-up + prompts: https://github.com/LaraArias/this-is-kai\n#KimiOnCerebras @Kimi_Moonshot",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124487571720085536/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124487571720085536"
+ },
+ {
+  "id": "2124498991458996547",
+  "title": "Afya Guide healthcare prototype built with Kimi",
+  "title_zh": "基于Kimi构建的Afya Guide医疗原型",
+  "category": "ui-demo",
+  "author": {
+   "handle": "Behlly246865",
+   "name": "Behlly"
+  },
+  "postUrl": "https://x.com/Behlly246865/status/2124498991458996547",
+  "createdAt": "2026-11-22T13:43:25.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124498991458996547/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124498991458996547/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124498991458996547"
+ },
+ {
+  "id": "2124504351662354859",
+  "title": "A retro fighting game with adaptive AI opponent",
+  "title_zh": "具备自适应AI对手的复古格斗游戏",
+  "category": "game",
+  "author": {
+   "handle": "siddhiguptas",
+   "name": "Siddhi"
+  },
+  "postUrl": "https://x.com/siddhiguptas/status/2124504351662354859",
+  "createdAt": "2026-11-22T14:04:43.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124504351662354859/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124504351662354859/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124504351662354859"
+ },
+ {
+  "id": "2124514556106178992",
+  "title": "AI playing an RPG Maker game directly",
+  "title_zh": "AI直接操控游玩RPG Maker游戏",
+  "category": "game",
+  "author": {
+   "handle": "Sakurajima71035",
+   "name": "Asuka"
+  },
+  "postUrl": "https://x.com/Sakurajima71035/status/2124514556106178992",
+  "createdAt": "2026-11-22T14:45:16.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124514556106178992/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124514556106178992/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124514556106178992"
+ },
+ {
+  "id": "2124519902383923614",
+  "title": "Interactive physics labs generated from a lecture",
+  "title_zh": "根据物理讲座生成的交互式物理实验",
+  "category": "explainer",
+  "author": {
+   "handle": "jennyoliver57",
+   "name": "Jennycruzy"
+  },
+  "postUrl": "https://x.com/jennyoliver57/status/2124519902383923614",
+  "createdAt": "2026-11-22T15:06:31.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124519902383923614/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124519902383923614/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124519902383923614"
+ },
+ {
+  "id": "2124524217303527872",
+  "title": "Generating a product launch kit with Strike",
+  "title_zh": "使用Strike生成产品发布工具包",
+  "category": "ui-demo",
+  "author": {
+   "handle": "Benny___5",
+   "name": "Benny (❖,❖)"
+  },
+  "postUrl": "https://x.com/Benny___5/status/2124524217303527872",
+  "createdAt": "2026-11-22T15:23:39.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124524217303527872/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124524217303527872/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124524217303527872"
+ },
+ {
+  "id": "2124526110964630008",
+  "title": "AI agent retail gift discovery hackathon project",
+  "title_zh": "黑客松项目：AI驱动的零售商品导购代理",
+  "category": "ui-demo",
+  "author": {
+   "handle": "iwillalllowit",
+   "name": "I'llallowit"
+  },
+  "postUrl": "https://x.com/iwillalllowit/status/2124526110964630008",
+  "createdAt": "2026-11-22T15:31:11.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124526110964630008/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124526110964630008/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124526110964630008"
+ },
+ {
+  "id": "2124533733680119843",
+  "title": "Racing AI inference across three cloud providers",
+  "title_zh": "跨三大云服务商的AI推理速度对比",
+  "category": "comparison",
+  "author": {
+   "handle": "encrypt_wizard",
+   "name": "MrNetwork"
+  },
+  "postUrl": "https://x.com/encrypt_wizard/status/2124533733680119843",
+  "createdAt": "2026-11-22T16:01:28.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124533733680119843/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124533733680119843/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124533733680119843"
+ },
+ {
+  "id": "2124537601948291122",
+  "title": "Real-time pet sound and video translator",
+  "title_zh": "结合音视频信号的实时宠物翻译器",
+  "category": "ui-demo",
+  "author": {
+   "handle": "papajimjams",
+   "name": "papajams"
+  },
+  "postUrl": "https://x.com/papajimjams/status/2124537601948291122",
+  "createdAt": "2026-11-22T16:16:50.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124537601948291122/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124537601948291122/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124537601948291122"
+ },
+ {
+  "id": "2124549343315194130",
+  "title": "Comparison of AI models bringing an icebreaker to life",
+  "title_zh": "多款AI模型活化破冰船图像效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "HavisT83099",
+   "name": "Havis | Claude Code"
+  },
+  "postUrl": "https://x.com/HavisT83099/status/2124549343315194130",
+  "createdAt": "2026-11-22T17:03:30.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124549343315194130/video.mp4",
+  "promptShared": true,
+  "promptText": "GPT-6.2 Astra cheated and still won 💀\n\nSame photo, same prompt: bring this icebreaker to life.\n\n🥇 GPT-6.2 Astra: $7.14 · 8 min\n🥈 Claude Opus 5.5: $8.27 · 45 min\n🥉 GPT-6 Astra: $3.00 · 7 min\n💀 Kimi K3.1 Pro: $0.73 · 2 min\n\nAstra cut pieces of the reference photo and glued them into the scene as textures. Looks the most real. Is it even 3D at this point?\n\nOpus worked 45 minutes and built a cruise ship with a black bow.\n\nKimi made a LEGO set for $0.73 😭\n\nWho actually won here? 👀",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124549343315194130/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124549343315194130"
+ },
+ {
+  "id": "2124550782863458604",
+  "title": "Live AI roasting demo during Minecraft gameplay",
+  "title_zh": "Minecraft游戏过程中的AI实时吐槽演示",
+  "category": "game",
+  "author": {
+   "handle": "SilentHacks0",
+   "name": "haruka"
+  },
+  "postUrl": "https://x.com/SilentHacks0/status/2124550782863458604",
+  "createdAt": "2026-11-22T17:09:13.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124550782863458604/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124550782863458604/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124550782863458604"
+ },
+ {
+  "id": "2124555986589679913",
+  "title": "Interactive 3D CAD studio streaming a hypercar",
+  "title_zh": "三维CAD工作室流式渲染跑车模型",
+  "category": "3d-scene",
+  "author": {
+   "handle": "0atxl",
+   "name": "Atul"
+  },
+  "postUrl": "https://x.com/0atxl/status/2124555986589679913",
+  "createdAt": "2026-11-22T17:29:54.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124555986589679913/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124555986589679913/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124555986589679913"
+ },
+ {
+  "id": "2124561412789842045",
+  "title": "A flight game with missions dynamically written by AI",
+  "title_zh": "由AI动态生成任务的飞行模拟游戏",
+  "category": "game",
+  "author": {
+   "handle": "SPAC89",
+   "name": "Iam_"
+  },
+  "postUrl": "https://x.com/SPAC89/status/2124561412789842045",
+  "createdAt": "2026-11-22T17:51:27.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124561412789842045/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124561412789842045/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124561412789842045"
+ },
+ {
+  "id": "2124562733270172089",
+  "title": "Comparison of two playable forklift simulators",
+  "title_zh": "两款可玩叉车模拟器的生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "0xbiel",
+   "name": "biel"
+  },
+  "postUrl": "https://x.com/0xbiel/status/2124562733270172089",
+  "createdAt": "2026-11-22T17:56:42.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124562733270172089/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124562733270172089/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124562733270172089"
+ },
+ {
+  "id": "2124589433248973177",
+  "title": "Fast shopping agent searching for holiday gifts",
+  "title_zh": "高速智能体在电商网站搜索节日礼物",
+  "category": "ui-demo",
+  "author": {
+   "handle": "venkatGoku",
+   "name": "Venkat Reddy"
+  },
+  "postUrl": "https://x.com/venkatGoku/status/2124589433248973177",
+  "createdAt": "2026-11-22T19:42:48.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124589433248973177/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124589433248973177/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124589433248973177"
+ },
+ {
+  "id": "2124665776460435820",
+  "title": "A holiday shopping agent named Speedy Santa",
+  "title_zh": "名为Speedy Santa的节日购物AI助手",
+  "category": "ui-demo",
+  "author": {
+   "handle": "_HEISEMMA",
+   "name": "Emma"
+  },
+  "postUrl": "https://x.com/_HEISEMMA/status/2124665776460435820",
+  "createdAt": "2026-11-23T00:46:10.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124665776460435820/video.mp4",
+  "promptShared": false,
+  "featured": 7,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124665776460435820/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124665776460435820"
+ },
+ {
+  "id": "2124673323577819441",
+  "title": "Interactive rice cooker model in Three.js",
+  "title_zh": "使用 Three.js 构建的逼真电饭煲模型",
+  "category": "3d-scene",
+  "author": {
+   "handle": "junwatu",
+   "name": "DΞV"
+  },
+  "postUrl": "https://x.com/junwatu/status/2124673323577819441",
+  "createdAt": "2026-11-23T01:16:09.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124673323577819441/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124673323577819441/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124673323577819441"
+ },
+ {
+  "id": "2124702150853026205",
+  "title": "Crystal butterfly generated by different AI models",
+  "title_zh": "不同AI模型生成的晶体蝴蝶展示",
+  "category": "comparison",
+  "author": {
+   "handle": "doe_naps",
+   "name": "Doe"
+  },
+  "postUrl": "https://x.com/doe_naps/status/2124702150853026205",
+  "createdAt": "2026-11-23T03:10:42.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124702150853026205/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124702150853026205/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124702150853026205"
+ },
+ {
+  "id": "2124798013419725137",
+  "title": "An AI shopping agent finding holiday gifts at speed",
+  "title_zh": "高速搜索家庭礼物的AI购物智能体",
+  "category": "ui-demo",
+  "author": {
+   "handle": "jennyoliver57",
+   "name": "Jennycruzy"
+  },
+  "postUrl": "https://x.com/jennyoliver57/status/2124798013419725137",
+  "createdAt": "2026-11-23T09:31:37.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124798013419725137/video.mp4",
+  "promptShared": true,
+  "promptText": "Gm.\n\nBesides Live Lab, I also took on the Speed Bounty at the Cerebras x Kimi hackathon.\n\nThe task: \"Find 5 Christmas gifts for my family from real shops, with product links.\" Fastest agent wins.\n\nI left my OpenClaw agent running all night, making it faster with every round. In the last minutes before the close, Kimi K3.1 Pro on Cerebras hit 1,317 tokens per second. 5 real shops searched at once, 5 live product pages back.\n\nIts picks:\n☕ Death Wish medium roast coffee\n☕ Fellow Carter wide mug\n🖊️ MUJI 10-colour gel pen set\n🧣 Parachute wool throw\n🥤 Stanley Everyday tumbler\n\nChristmas shopping done in the time it takes to open one tab.\n\nIf you had Kimi on Cerebras at 1,300+ tokens a second, what would you build first: a gift finder like this, a live science lab like Live Lab, or a game? 👇\n\nCode: https://github.com/Jennycruzy/livelab/tree/main/santa\n\n@Cerebras @Kimi_Moonshot #KimiOnCerebras",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124798013419725137/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124798013419725137"
+ },
+ {
+  "id": "2125004311822324011",
+  "title": "Comparing video generation of winter railway",
+  "title_zh": "冬季铁路视频生成模型效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "0xmurasame",
+   "name": "Murasame"
+  },
+  "postUrl": "https://x.com/0xmurasame/status/2125004311822324011",
+  "createdAt": "2026-11-23T23:11:23.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125004311822324011/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125004311822324011/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2125004311822324011"
+ },
+ {
+  "id": "2125126665638699281",
+  "title": "Kimi agent enhancing robot simulation tasks",
+  "title_zh": "Kimi代理提升机器人模拟任务成功率",
+  "category": "explainer",
+  "author": {
+   "handle": "Chinazhidx",
+   "name": "智东西China AI News"
+  },
+  "postUrl": "https://x.com/Chinazhidx/status/2125126665638699281",
+  "createdAt": "2026-11-24T07:17:34.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125126665638699281/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125126665638699281/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2125126665638699281"
+ },
+ {
+  "id": "2125220812554723580",
+  "title": "Rocket launch video generation model comparison",
+  "title_zh": "火箭发射视频生成模型的对比测试",
+  "category": "comparison",
+  "author": {
+   "handle": "HavisT83099",
+   "name": "Havis | Claude Code"
+  },
+  "postUrl": "https://x.com/HavisT83099/status/2125220812554723580",
+  "createdAt": "2026-11-24T13:31:41.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125220812554723580/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125220812554723580/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2125220812554723580"
+ },
+ {
+  "id": "2125236973342453938",
+  "title": "Interactive 3D world with Vision Pro",
+  "title_zh": "Vision Pro交互式3D世界演示",
+  "category": "3d-scene",
+  "author": {
+   "handle": "xbh_artist",
+   "name": "Bihe Xi"
+  },
+  "postUrl": "https://x.com/xbh_artist/status/2125236973342453938",
+  "createdAt": "2026-11-24T14:35:54.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125236973342453938/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125236973342453938/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2125236973342453938"
  }
 ]

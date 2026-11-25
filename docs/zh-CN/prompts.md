@@ -2,15 +2,16 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 63 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
+共 67 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (12)
 - [动效](#motion-graphics) (6)
-- [游戏](#game) (2)
+- [游戏](#game) (3)
+- [产品界面](#ui-demo) (2)
 - [讲解](#explainer) (2)
-- [测试对比](#comparison) (41)
+- [测试对比](#comparison) (42)
 
 <a id="3d-scene"></a>
 
@@ -321,6 +322,67 @@ Initial build + checks + capture: 13m45s.
 Model API cost: ~$0.23 (estimated).
 
 Prompt below👇
+```
+
+### 一款程序化生成的合成波3D赛车游戏
+
+[@JimmyOgb12](https://x.com/JimmyOgb12/status/2124256574470324564) · [观看](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124256574470324564/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124256574470324564?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+So I built a 3D Game 🎮 
+Neon Cyber-Drift: 100% procedural 3D synthwave racer one-shotted with OpenClaw + Kimi K3.1 Pro  @cerebras. 
+Pure Three.js & Web Audio, 0 assets.
+
+Play: https://neon-cyber-drift.vercel.app
+Code: https://github.com/JimmyOgb/Kimi-k3.1_Pro
+
+ @Kimi_Moonshot #KimiOnCerebras
+```
+
+<a id="ui-demo"></a>
+
+## 产品界面
+
+### 快速挑选圣诞礼物的智能体演示
+
+[@iaencorto](https://x.com/iaencorto/status/2124487571720085536) · [观看](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124487571720085536/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124487571720085536?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+This is Kai. Kai forgot the Secret Santa gift.
+
+One OpenClaw agent, Kimi K3.1 Pro on @Cerebras at up to 1,126 tokens/s: five real, in-stock gifts in 16.6 s. Same model elsewhere: 43 s.
+
+Write-up + prompts: https://github.com/LaraArias/this-is-kai
+#KimiOnCerebras @Kimi_Moonshot
+```
+
+### 高速搜索家庭礼物的AI购物智能体
+
+[@jennyoliver57](https://x.com/jennyoliver57/status/2124798013419725137) · [观看](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124798013419725137/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124798013419725137?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+Gm.
+
+Besides Live Lab, I also took on the Speed Bounty at the Cerebras x Kimi hackathon.
+
+The task: "Find 5 Christmas gifts for my family from real shops, with product links." Fastest agent wins.
+
+I left my OpenClaw agent running all night, making it faster with every round. In the last minutes before the close, Kimi K3.1 Pro on Cerebras hit 1,317 tokens per second. 5 real shops searched at once, 5 live product pages back.
+
+Its picks:
+☕ Death Wish medium roast coffee
+☕ Fellow Carter wide mug
+🖊️ MUJI 10-colour gel pen set
+🧣 Parachute wool throw
+🥤 Stanley Everyday tumbler
+
+Christmas shopping done in the time it takes to open one tab.
+
+If you had Kimi on Cerebras at 1,300+ tokens a second, what would you build first: a gift finder like this, a live science lab like Live Lab, or a game? 👇
+
+Code: https://github.com/Jennycruzy/livelab/tree/main/santa
+
+@Cerebras @Kimi_Moonshot #KimiOnCerebras
 ```
 
 <a id="explainer"></a>
@@ -1121,4 +1183,27 @@ And GPT-6 Astra spent $12 and 22 minutes on a cartoon from a children’s book
 Imagine paying 6x more and waiting 11x longer to get a worse truck
 
 Which truck would you pick?
+```
+
+### 多款AI模型活化破冰船图像效果对比
+
+[@HavisT83099](https://x.com/HavisT83099/status/2124549343315194130) · [观看](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2124549343315194130/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2124549343315194130?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+GPT-6.2 Astra cheated and still won 💀
+
+Same photo, same prompt: bring this icebreaker to life.
+
+🥇 GPT-6.2 Astra: $7.14 · 8 min
+🥈 Claude Opus 5.5: $8.27 · 45 min
+🥉 GPT-6 Astra: $3.00 · 7 min
+💀 Kimi K3.1 Pro: $0.73 · 2 min
+
+Astra cut pieces of the reference photo and glued them into the scene as textures. Looks the most real. Is it even 3D at this point?
+
+Opus worked 45 minutes and built a cruise ship with a black bow.
+
+Kimi made a LEGO set for $0.73 😭
+
+Who actually won here? 👀
 ```
