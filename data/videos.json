@@ -3497,25 +3497,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2114471220687286425"
  },
  {
-  "id": "2114491459206262930",
-  "title": "Vintage carousel comparison in Three.js",
-  "title_zh": "Three.js复古旋转木马生成对比",
-  "category": "comparison",
-  "author": {
-   "handle": "HavisT83099",
-   "name": "Havis | Claude Code"
-  },
-  "postUrl": "https://x.com/HavisT83099/status/2114491459206262930",
-  "createdAt": "2026-10-25T22:57:03.000Z",
-  "durationMs": 15600,
-  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2114491459206262930/video.mp4",
-  "promptShared": true,
-  "promptText": "KIMI SAYS IT'S 1 POINT BEHIND OPUS 5.5 ON CODING. SO I GAVE ALL 3 THE SAME F*CKING CAROUSEL.\n\nOne prompt: a vintage carousel at dusk in Three.js. Striped canopy, 12 horses going up and down, warm bulbs, a seamless 12-second loop.\n\n/ Claude Opus 5.5: 13 min, ~$2.12. Built a whole park around it, sunset, trees, string lights between the lamps.\n/ ChatGPT: 19 min, ~$0.60. The most ornate canopy of the 3, gold trim and painted shields.\n/ Kimi K3.1 Pro: 15 min, $0.41. Biggest carousel in frame, sitting on a plaza in total darkness.\n\nAll 3 worked. Kimi did it for 1/5 of the Claude price.\n\nWhich one would you ride?",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2114491459206262930/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2114491459206262930"
- },
- {
   "id": "2114529949809791256",
   "title": "Interactive 3D V8 engine comparison in Three.js",
   "title_zh": "Three.js 交互式 3D V8 发动机对比",
@@ -7175,5 +7156,61 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125236973342453938/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2125236973342453938"
+ },
+ {
+  "id": "2125381701430128647",
+  "title": "A 3D laptop with GTA VI stickers",
+  "title_zh": "带有 GTA VI 贴纸的纯代码三维工作区",
+  "category": "3d-scene",
+  "author": {
+   "handle": "junwatu",
+   "name": "DΞV"
+  },
+  "postUrl": "https://x.com/junwatu/status/2125381701430128647",
+  "createdAt": "2026-11-25T00:10:59.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125381701430128647/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125381701430128647/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2125381701430128647"
+ },
+ {
+  "id": "2125444115592536325",
+  "title": "Racing pit stop changing all four wheels in Three.js",
+  "title_zh": "Three.js 中更换全部四个车轮的赛车进站",
+  "category": "comparison",
+  "author": {
+   "handle": "LatentOperatorX",
+   "name": "Latent Operator"
+  },
+  "postUrl": "https://x.com/LatentOperatorX/status/2125444115592536325",
+  "createdAt": "2026-11-25T04:19:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125444115592536325/video.mp4",
+  "promptShared": true,
+  "promptText": "Kimi K3.1 Pro with Pi Harness vs Kimi K3.1 Pro in Opencode vs DeepSeek V4.1 Flash in Opencode 🔥🏁\n\nSame prompt. Racing pit stop changing all four wheels, in Three.js, all on high effort.\n\nKimi K3.1 Pro (Pi): $0.47 · 8m 41s\nKimi K3.1 Pro (OpenCode): $0.21 · 3m 05s\nDeepSeek V4.1 Flash (OpenCode): $0.09 · 8m 58s\n\nDeepSeek V4.1 Flash (OpenCode) is 4.9× cheaper than Kimi K3.1 Pro (Pi).\nKimi K3.1 Pro (OpenCode) is 2.9× faster than DeepSeek V4.1 Flash (OpenCode).\n\nSame Kimi, two harnesses, and the price more than doubles. Which pit crew wins for you? 👇\n\nFollow @LatentOperatorX",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125444115592536325/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2125444115592536325"
+ },
+ {
+  "id": "2125583206934077860",
+  "title": "A bullet train flying past Mount Fuji",
+  "title_zh": "飞驰经过富士山的新干线子弹头列车",
+  "category": "comparison",
+  "author": {
+   "handle": "HavisT83099",
+   "name": "Havis | Claude Code"
+  },
+  "postUrl": "https://x.com/HavisT83099/status/2125583206934077860",
+  "createdAt": "2026-11-25T13:31:42.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125583206934077860/video.mp4",
+  "promptShared": true,
+  "promptText": "GPT-6.2 Astra cut Mount Fuji right out of my reference photo 💀\n\nSame photo, same prompt: make this bullet train fly past Fuji.\n\n🥇 Claude Opus 5.5: $6.41 · 41 min\n🥈 GPT-6.2 Astra: $2.52 · 15 min\n🥉 Kimi K3.1 Pro: $0.39 · 7 min\n\nOpus built the whole thing in 3D. The train rips past right next to the camera and kicks a storm of petals off the trees.\n\nAstra's mountain, sky, pagoda and that big branch are pieces of the photo. Only the train is 3D, and after it passes it's a dot for most of the loop.\n\nKimi's train looks like a Lego set and it's gone in about a second 😭\n\nWhich one would you ride?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125583206934077860/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2125583206934077860"
  }
 ]

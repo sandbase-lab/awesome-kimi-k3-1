@@ -2,7 +2,7 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-67 Kimi K3.1 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with K3.1 on SandBase Lab. New to prompting K3.1? Start with the [prompt guide](prompt-guide.md).
+68 Kimi K3.1 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with K3.1 on SandBase Lab. New to prompting K3.1? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
@@ -11,7 +11,7 @@ Each entry quotes the creator's post as published on X, where the prompt is shar
 - [Games](#game) (3)
 - [Product UI](#ui-demo) (2)
 - [Explainers](#explainer) (2)
-- [Tests & comparisons](#comparison) (42)
+- [Tests & comparisons](#comparison) (43)
 
 <a id="3d-scene"></a>
 
@@ -903,24 +903,6 @@ My scores at the end. Was it worth it?
 All three models are on
 ```
 
-### Vintage carousel comparison in Three.js
-
-[@HavisT83099](https://x.com/HavisT83099/status/2114491459206262930) · 0:16 · [Watch](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2114491459206262930/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2114491459206262930?utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
-
-```text
-KIMI SAYS IT'S 1 POINT BEHIND OPUS 5.5 ON CODING. SO I GAVE ALL 3 THE SAME F*CKING CAROUSEL.
-
-One prompt: a vintage carousel at dusk in Three.js. Striped canopy, 12 horses going up and down, warm bulbs, a seamless 12-second loop.
-
-/ Claude Opus 5.5: 13 min, ~$2.12. Built a whole park around it, sunset, trees, string lights between the lamps.
-/ ChatGPT: 19 min, ~$0.60. The most ornate canopy of the 3, gold trim and painted shields.
-/ Kimi K3.1 Pro: 15 min, $0.41. Biggest carousel in frame, sitting on a plaza in total darkness.
-
-All 3 worked. Kimi did it for 1/5 of the Claude price.
-
-Which one would you ride?
-```
-
 ### Three.js dragon flight scene comparison
 
 [@sai0xgen](https://x.com/sai0xgen/status/2114571732938080761) · 0:28 · [Watch](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2114571732938080761/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2114571732938080761?utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
@@ -1206,4 +1188,47 @@ Opus worked 45 minutes and built a cruise ship with a black bow.
 Kimi made a LEGO set for $0.73 😭
 
 Who actually won here? 👀
+```
+
+### Racing pit stop changing all four wheels in Three.js
+
+[@LatentOperatorX](https://x.com/LatentOperatorX/status/2125444115592536325) · [Watch](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125444115592536325/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2125444115592536325?utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+Kimi K3.1 Pro with Pi Harness vs Kimi K3.1 Pro in Opencode vs DeepSeek V4.1 Flash in Opencode 🔥🏁
+
+Same prompt. Racing pit stop changing all four wheels, in Three.js, all on high effort.
+
+Kimi K3.1 Pro (Pi): $0.47 · 8m 41s
+Kimi K3.1 Pro (OpenCode): $0.21 · 3m 05s
+DeepSeek V4.1 Flash (OpenCode): $0.09 · 8m 58s
+
+DeepSeek V4.1 Flash (OpenCode) is 4.9× cheaper than Kimi K3.1 Pro (Pi).
+Kimi K3.1 Pro (OpenCode) is 2.9× faster than DeepSeek V4.1 Flash (OpenCode).
+
+Same Kimi, two harnesses, and the price more than doubles. Which pit crew wins for you? 👇
+
+Follow @LatentOperatorX
+```
+
+### A bullet train flying past Mount Fuji
+
+[@HavisT83099](https://x.com/HavisT83099/status/2125583206934077860) · [Watch](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125583206934077860/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2125583206934077860?utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+GPT-6.2 Astra cut Mount Fuji right out of my reference photo 💀
+
+Same photo, same prompt: make this bullet train fly past Fuji.
+
+🥇 Claude Opus 5.5: $6.41 · 41 min
+🥈 GPT-6.2 Astra: $2.52 · 15 min
+🥉 Kimi K3.1 Pro: $0.39 · 7 min
+
+Opus built the whole thing in 3D. The train rips past right next to the camera and kicks a storm of petals off the trees.
+
+Astra's mountain, sky, pagoda and that big branch are pieces of the photo. Only the train is 3D, and after it passes it's a dot for most of the loop.
+
+Kimi's train looks like a Lego set and it's gone in about a second 😭
+
+Which one would you ride?
 ```
