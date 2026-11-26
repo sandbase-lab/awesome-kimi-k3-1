@@ -2,7 +2,7 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-68 Kimi K3.1 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with K3.1 on SandBase Lab. New to prompting K3.1? Start with the [prompt guide](prompt-guide.md).
+69 Kimi K3.1 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with K3.1 on SandBase Lab. New to prompting K3.1? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
@@ -11,7 +11,7 @@ Each entry quotes the creator's post as published on X, where the prompt is shar
 - [Games](#game) (3)
 - [Product UI](#ui-demo) (2)
 - [Explainers](#explainer) (2)
-- [Tests & comparisons](#comparison) (43)
+- [Tests & comparisons](#comparison) (44)
 
 <a id="3d-scene"></a>
 
@@ -1231,4 +1231,18 @@ Astra's mountain, sky, pagoda and that big branch are pieces of the photo. Only 
 Kimi's train looks like a Lego set and it's gone in about a second 😭
 
 Which one would you ride?
+```
+
+### GLM 5.4 performing 3D modeling compared to Kimi K3.1
+
+[@gmi_cloud](https://x.com/gmi_cloud/status/2125744736598409255) · [Watch](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125744736598409255/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2125744736598409255?utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+WILD, GLM 5.4 just beat Kimi K3.1 at 3D modeling
+
+it did take about 10x longer, likely because GLM 5.4 is https://Z.ai's first Loop Transformer: same 28 layers, run twice per token. more thinking per step, better geometry.
+
+cost is N/A for now
+
+prompt in the reply 👇
 ```

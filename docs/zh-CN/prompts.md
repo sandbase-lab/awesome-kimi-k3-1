@@ -2,7 +2,7 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 68 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
+共 69 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
@@ -11,7 +11,7 @@
 - [游戏](#game) (3)
 - [产品界面](#ui-demo) (2)
 - [讲解](#explainer) (2)
-- [测试对比](#comparison) (43)
+- [测试对比](#comparison) (44)
 
 <a id="3d-scene"></a>
 
@@ -1231,4 +1231,18 @@ Astra's mountain, sky, pagoda and that big branch are pieces of the photo. Only 
 Kimi's train looks like a Lego set and it's gone in about a second 😭
 
 Which one would you ride?
+```
+
+### GLM 5.4与Kimi K3.1的3D建模性能对比
+
+[@gmi_cloud](https://x.com/gmi_cloud/status/2125744736598409255) · [观看](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125744736598409255/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2125744736598409255?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+WILD, GLM 5.4 just beat Kimi K3.1 at 3D modeling
+
+it did take about 10x longer, likely because GLM 5.4 is https://Z.ai's first Loop Transformer: same 28 layers, run twice per token. more thinking per step, better geometry.
+
+cost is N/A for now
+
+prompt in the reply 👇
 ```

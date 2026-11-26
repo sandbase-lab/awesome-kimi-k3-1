@@ -7212,5 +7212,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125583206934077860/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2125583206934077860"
+ },
+ {
+  "id": "2125744736598409255",
+  "title": "GLM 5.4 performing 3D modeling compared to Kimi K3.1",
+  "title_zh": "GLM 5.4与Kimi K3.1的3D建模性能对比",
+  "category": "comparison",
+  "author": {
+   "handle": "gmi_cloud",
+   "name": "GMI Cloud"
+  },
+  "postUrl": "https://x.com/gmi_cloud/status/2125744736598409255",
+  "createdAt": "2026-11-26T00:13:34.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125744736598409255/video.mp4",
+  "promptShared": true,
+  "promptText": "WILD, GLM 5.4 just beat Kimi K3.1 at 3D modeling\n\nit did take about 10x longer, likely because GLM 5.4 is https://Z.ai's first Loop Transformer: same 28 layers, run twice per token. more thinking per step, better geometry.\n\ncost is N/A for now\n\nprompt in the reply 👇",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2125744736598409255/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2125744736598409255"
  }
 ]
