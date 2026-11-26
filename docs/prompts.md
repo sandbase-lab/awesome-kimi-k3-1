@@ -2,7 +2,7 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-69 Kimi K3.1 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with K3.1 on SandBase Lab. New to prompting K3.1? Start with the [prompt guide](prompt-guide.md).
+70 Kimi K3.1 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with K3.1 on SandBase Lab. New to prompting K3.1? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
@@ -11,7 +11,7 @@ Each entry quotes the creator's post as published on X, where the prompt is shar
 - [Games](#game) (3)
 - [Product UI](#ui-demo) (2)
 - [Explainers](#explainer) (2)
-- [Tests & comparisons](#comparison) (44)
+- [Tests & comparisons](#comparison) (45)
 
 <a id="3d-scene"></a>
 
@@ -1245,4 +1245,32 @@ it did take about 10x longer, likely because GLM 5.4 is https://Z.ai's first Loo
 cost is N/A for now
 
 prompt in the reply 👇
+```
+
+### A rally truck blasting through a desert canyon
+
+[@0xSatoshiv](https://x.com/0xSatoshiv/status/2126018105549652192) · [Watch](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2126018105549652192/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2126018105549652192?utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+holy f*ck... GPT 6 Astra paid $101 for a rally truck that shattered into toy bricks.
+
+Blender MCP vs Fable 5.2 vs Kimi K3.1 vs GPT 6 Astra
+one prompt: a rally truck blasting through a desert canyon.
+
+#1 Blender MCP · $7 · 2 mins
+#2 Fable 5.2 · $29 · 8 mins
+#3 Kimi K3.1 · $59 · 17 mins
+#4 GPT 6 Astra · $101 · 26 mins
+
+Blender MCP made it look like a Dakar broadcast: sun flaring over the canyon walls, full race livery, the truck slamming over rock ledges in a storm of sand.
+
+Fable ran the same stage clean and sharp, just a little less dramatic.
+
+Kimi started in a low-poly canyon and still got the truck to the finish.
+
+Astra launched it off a rock, the cargo box ripped away, and the whole thing landed on its roof in a pile of red bricks 😭
+
+$7 crossed the canyon. $101 needs a crane.
+
+read the full Claude Motion Engineering guide bellow.
 ```

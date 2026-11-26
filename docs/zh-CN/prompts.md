@@ -2,7 +2,7 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 69 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
+共 70 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
@@ -11,7 +11,7 @@
 - [游戏](#game) (3)
 - [产品界面](#ui-demo) (2)
 - [讲解](#explainer) (2)
-- [测试对比](#comparison) (44)
+- [测试对比](#comparison) (45)
 
 <a id="3d-scene"></a>
 
@@ -1245,4 +1245,32 @@ it did take about 10x longer, likely because GLM 5.4 is https://Z.ai's first Loo
 cost is N/A for now
 
 prompt in the reply 👇
+```
+
+### 一辆拉力卡车穿过沙漠峡谷
+
+[@0xSatoshiv](https://x.com/0xSatoshiv/status/2126018105549652192) · [观看](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2126018105549652192/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2126018105549652192?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+holy f*ck... GPT 6 Astra paid $101 for a rally truck that shattered into toy bricks.
+
+Blender MCP vs Fable 5.2 vs Kimi K3.1 vs GPT 6 Astra
+one prompt: a rally truck blasting through a desert canyon.
+
+#1 Blender MCP · $7 · 2 mins
+#2 Fable 5.2 · $29 · 8 mins
+#3 Kimi K3.1 · $59 · 17 mins
+#4 GPT 6 Astra · $101 · 26 mins
+
+Blender MCP made it look like a Dakar broadcast: sun flaring over the canyon walls, full race livery, the truck slamming over rock ledges in a storm of sand.
+
+Fable ran the same stage clean and sharp, just a little less dramatic.
+
+Kimi started in a low-poly canyon and still got the truck to the finish.
+
+Astra launched it off a rock, the cargo box ripped away, and the whole thing landed on its roof in a pile of red bricks 😭
+
+$7 crossed the canyon. $101 needs a crane.
+
+read the full Claude Motion Engineering guide bellow.
 ```
