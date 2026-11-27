@@ -567,24 +567,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2113349968295788751"
  },
  {
-  "id": "2113400747631296635",
-  "title": "Medieval voxel castle created with Kimi K3.1",
-  "title_zh": "Kimi K3.1生成的体素中世纪城堡",
-  "category": "3d-scene",
-  "author": {
-   "handle": "FabianoFirmo",
-   "name": "Fabiano Firmo"
-  },
-  "postUrl": "https://x.com/FabianoFirmo/status/2113400747631296635",
-  "createdAt": "2026-10-22T22:42:57.000Z",
-  "durationMs": 41988,
-  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2113400747631296635/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": null,
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2113400747631296635"
- },
- {
   "id": "2113408447777522140",
   "title": "Gemini 4 Carbon versus Kimi K3.1 3D test",
   "title_zh": "Gemini 4 Carbon与Kimi K3.1的3D对比测试",
@@ -7250,5 +7232,42 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2126018105549652192/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2126018105549652192"
+ },
+ {
+  "id": "2126369058593681614",
+  "title": "A football game that changes when you type",
+  "title_zh": "随文字输入实时变化的足球游戏",
+  "category": "game",
+  "author": {
+   "handle": "DheerajShah_",
+   "name": "Dhee.eth 🦇🔊 is at @ns"
+  },
+  "postUrl": "https://x.com/DheerajShah_/status/2126369058593681614",
+  "createdAt": "2026-11-27T17:34:24.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2126369058593681614/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2126369058593681614/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2126369058593681614"
+ },
+ {
+  "id": "2126387642757439722",
+  "title": "Icebreaker smashing through Arctic ice across four models",
+  "title_zh": "四款模型生成破冰船破冰效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "0xSatoshiv",
+   "name": "Satoshi"
+  },
+  "postUrl": "https://x.com/0xSatoshiv/status/2126387642757439722",
+  "createdAt": "2026-11-27T18:48:15.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2126387642757439722/video.mp4",
+  "promptShared": true,
+  "promptText": "holy f*ck... Kimi spent $98 on an icebreaker made of sugar cubes, and the bow fell off\n\nBlender MCP vs Fable 5.2 vs GPT 6 Astra vs Kimi K3.1\none prompt: an icebreaker smashing through Arctic ice\n\n#1 Blender MCP · $7 · 2 mins\n#2 Fable 5.2 · $28 · 8 mins\n#3 GPT 6 Astra · $61 · 16 mins\n#4 Kimi K3.1 · $98 · 24 mins\n\nBlender MCP went full storm: black water, snow in the air, cabin lights glowing, the bow throwing up walls of spray\n\nFable made the bright daytime version, the hull pushing through a field of clean white floes\n\nAstra kept it low-poly and still cracked the ice open behind it\n\nKimi parked a block ship in a flat blue pool, then its own bow came apart in pieces 😭\n\n$7 got a film. $98 got a ship that sank itself 🧊",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/kimi-k3-1/2126387642757439722/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2126387642757439722"
  }
 ]

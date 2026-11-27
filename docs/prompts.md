@@ -2,7 +2,7 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-70 Kimi K3.1 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with K3.1 on SandBase Lab. New to prompting K3.1? Start with the [prompt guide](prompt-guide.md).
+71 Kimi K3.1 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with K3.1 on SandBase Lab. New to prompting K3.1? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
@@ -11,7 +11,7 @@ Each entry quotes the creator's post as published on X, where the prompt is shar
 - [Games](#game) (3)
 - [Product UI](#ui-demo) (2)
 - [Explainers](#explainer) (2)
-- [Tests & comparisons](#comparison) (45)
+- [Tests & comparisons](#comparison) (46)
 
 <a id="3d-scene"></a>
 
@@ -1273,4 +1273,30 @@ Astra launched it off a rock, the cargo box ripped away, and the whole thing lan
 $7 crossed the canyon. $101 needs a crane.
 
 read the full Claude Motion Engineering guide bellow.
+```
+
+### Icebreaker smashing through Arctic ice across four models
+
+[@0xSatoshiv](https://x.com/0xSatoshiv/status/2126387642757439722) · [Watch](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2126387642757439722/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2126387642757439722?utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+holy f*ck... Kimi spent $98 on an icebreaker made of sugar cubes, and the bow fell off
+
+Blender MCP vs Fable 5.2 vs GPT 6 Astra vs Kimi K3.1
+one prompt: an icebreaker smashing through Arctic ice
+
+#1 Blender MCP · $7 · 2 mins
+#2 Fable 5.2 · $28 · 8 mins
+#3 GPT 6 Astra · $61 · 16 mins
+#4 Kimi K3.1 · $98 · 24 mins
+
+Blender MCP went full storm: black water, snow in the air, cabin lights glowing, the bow throwing up walls of spray
+
+Fable made the bright daytime version, the hull pushing through a field of clean white floes
+
+Astra kept it low-poly and still cracked the ice open behind it
+
+Kimi parked a block ship in a flat blue pool, then its own bow came apart in pieces 😭
+
+$7 got a film. $98 got a ship that sank itself 🧊
 ```

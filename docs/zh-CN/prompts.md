@@ -2,7 +2,7 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 70 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
+共 71 条 Kimi K3.1 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 K3.1 一键 **复刻**。第一次写 K3.1 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
@@ -11,7 +11,7 @@
 - [游戏](#game) (3)
 - [产品界面](#ui-demo) (2)
 - [讲解](#explainer) (2)
-- [测试对比](#comparison) (45)
+- [测试对比](#comparison) (46)
 
 <a id="3d-scene"></a>
 
@@ -1273,4 +1273,30 @@ Astra launched it off a rock, the cargo box ripped away, and the whole thing lan
 $7 crossed the canyon. $101 needs a crane.
 
 read the full Claude Motion Engineering guide bellow.
+```
+
+### 四款模型生成破冰船破冰效果对比
+
+[@0xSatoshiv](https://x.com/0xSatoshiv/status/2126387642757439722) · [观看](https://www.sandbase.ai/lab/media/x/kimi-k3-1/2126387642757439722/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/kimi-k3-1/2126387642757439722?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-kimi-k3-1&utm_content=prompt-index)
+
+```text
+holy f*ck... Kimi spent $98 on an icebreaker made of sugar cubes, and the bow fell off
+
+Blender MCP vs Fable 5.2 vs GPT 6 Astra vs Kimi K3.1
+one prompt: an icebreaker smashing through Arctic ice
+
+#1 Blender MCP · $7 · 2 mins
+#2 Fable 5.2 · $28 · 8 mins
+#3 GPT 6 Astra · $61 · 16 mins
+#4 Kimi K3.1 · $98 · 24 mins
+
+Blender MCP went full storm: black water, snow in the air, cabin lights glowing, the bow throwing up walls of spray
+
+Fable made the bright daytime version, the hull pushing through a field of clean white floes
+
+Astra kept it low-poly and still cracked the ice open behind it
+
+Kimi parked a block ship in a flat blue pool, then its own bow came apart in pieces 😭
+
+$7 got a film. $98 got a ship that sank itself 🧊
 ```
